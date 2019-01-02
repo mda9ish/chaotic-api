@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/unitehenry/chaotic-api.git"
   },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "cors": "*",
+    "body-parser": "*"
+  },
   "author": "Henry Unite",
   "license": "ISC",
   "bugs": {
