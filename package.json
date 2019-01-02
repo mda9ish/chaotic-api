@@ -1,0 +1,19 @@
+{
+  "name": "chaotic-api",
+  "version": "1.0.0",
+  "description": "A Chaotic TCG API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unitehenry/chaotic-api.git"
+  },
+  "author": "Henry Unite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unitehenry/chaotic-api/issues"
+  },
+  "homepage": "https://github.com/unitehenry/chaotic-api#readme"
+}
