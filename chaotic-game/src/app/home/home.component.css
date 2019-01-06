@@ -1,0 +1,41 @@
+.main{
+  text-align: center;
+  background-color: #4C4C4C;
+  color: #fafafa;
+  padding: 7em;
+}
+
+.main-header{
+  margin: 0;
+}
+
+#main-btn{
+  margin: 1em;
+}
+
+.try{
+  text-align: center;
+  padding: 3.5em;
+}
+
+.try-form{
+  margin: 0;
+}
+
+.try-field{
+  width: 85%;
+  padding-bottom: 0;
+}
+
+#submit-btn{
+  text-transform: uppercase;
+}
+
+#caption{
+  margin-top: 0;
+}
+
+#results{
+  text-align: left;
+  margin: 1em 0 .5em 0;
+}
