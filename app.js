@@ -25,7 +25,11 @@ db.once('open', () => {
   app.use('/locations', locations)
 
   const cards = require('./routes/cards')
-  app.use('/', cards)
+  app.use('/cards', cards)
+
+  app.get('/', (req, res) => {
+    res.send('Server Online!')
+  })
 
   app.listen(port, () => {console.log("Server Online!")})
 
