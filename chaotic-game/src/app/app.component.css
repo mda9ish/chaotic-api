@@ -1,3 +1,11 @@
+.container{
+  height: 100vh;
+}
+
+.menu{
+  width: 15vw;
+}
+
 #toolbar-heading{
   margin: 1em;
 }
