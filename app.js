@@ -31,6 +31,14 @@ db.once('open', () => {
     res.send('Server Online!')
   })
 
+  app.get('/api', (req, res) => {
+    res.send('Server Online!')
+  })
+
+  app.get('/about', (req, res) => {
+    res.send('Server Online!')
+  })
+
   app.listen(port, () => {console.log("Server Online!")})
 
 })
