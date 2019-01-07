@@ -27,6 +27,10 @@
 
   <button id="submit-btn" mat-raised-button color="warn" (click)="submit()">submit</button>
 
+  <mat-card id="results-card">
+      <pre id="results-display">{{ cards.result | json }}</pre>
+  </mat-card>
+
   <div class="cards" *ngIf="cards.result != undefined && cards.result.length != undefined">
     <img *ngFor="let card of cards.result" src="assets/{{card.set}}/{{card.id}}.png" id="card">
   </div>
@@ -34,7 +38,4 @@
     <img src="assets/{{cards.result.set}}/{{cards.result.id}}.png" id="card">
   </div>
 
-  <mat-card id="results-card">
-      <pre id="results-display">{{ cards.result | json }}</pre>
-  </mat-card>
 </div>
