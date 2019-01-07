@@ -2,6 +2,12 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
+const cors = require('cors');
+app.use(cors())
+
+const path = require('path');
+app.use(express.static(path.join(__dirname, 'chaotic-game/dist/chaotic-game')));
+
 const mongoose = require('mongoose');
 mongoose.connect('mongodb://henry:henry5398@ds263493.mlab.com:63493/heroku_8p4bgrc8', {useNewUrlParser: true});
 
@@ -28,15 +34,19 @@ db.once('open', () => {
   app.use('/cards', cards)
 
   app.get('/', (req, res) => {
-    res.send('Server Online!')
+    res.sendFile(path.join(__dirname + '/chaotic-game/dist/chaotic-game'));
   })
 
   app.get('/api', (req, res) => {
-    res.send('Server Online!')
+    res.sendFile(path.join(__dirname + '/chaotic-game/dist/chaotic-game'));
   })
 
   app.get('/about', (req, res) => {
-    res.send('Server Online!')
+    res.sendFile(path.join(__dirname + '/chaotic-game/dist/chaotic-game'));
+  })
+
+  app.get('/:set/:id', (req, res) => {
+    res.sendFile(path.join(__dirname + `/chaotic-game/dist/chaotic-game/assets/${req.params.set}/${req.params.id}.png`));
   })
 
   app.listen(port, () => {console.log("Server Online!")})
