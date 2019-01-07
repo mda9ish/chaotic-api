@@ -47,3 +47,9 @@
 #results-card{
   margin: 1em;
 }
+
+#results-display{
+  white-space: pre-wrap;
+  overflow-y: scroll;
+  height: 30em
+}

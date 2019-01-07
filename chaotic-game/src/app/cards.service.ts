@@ -4,7 +4,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 const headers = new HttpHeaders();
 headers.append('content-type', 'application/json')
 
-const serverRoute = ''
+const serverRoute = 'http://localhost:3000/'
 
 @Injectable({
   providedIn: 'root'
