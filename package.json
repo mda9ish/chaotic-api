@@ -11,10 +11,11 @@
     "url": "git+https://github.com/unitehenry/chaotic-api.git"
   },
   "dependencies": {
+    "body-parser": "*",
+    "cors": "*",
     "express": "*",
     "mongoose": "*",
-    "cors": "*",
-    "body-parser": "*"
+    "webpack-dev-server": "^3.1.14"
   },
   "author": "Henry Unite",
   "license": "ISC",
