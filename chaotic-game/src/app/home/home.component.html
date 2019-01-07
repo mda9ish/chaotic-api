@@ -12,21 +12,29 @@
 
     <mat-form-field class="try-field">
       <span matPrefix>http://chaoticgam.me/</span>
-      <input type="text" matInput id="try-input">
+      <input type="text" matInput id="try-input" [(ngModel)]="request" name="request">
     </mat-form-field>
 
   </form>
 
-  <p class="mat-caption" id="caption"><i>Try these, <a href="#">creatures/dop</a>, <a href="#">battlegear/ZOTH/4</a>, <a href="#">attacks/MI</a></i></p>
+  <p class="mat-caption" id="caption">
+    <i>Try these,
+      <a href="# " (click)="request = 'creatures/DOP'">creatures/DOP</a>,
+      <a href="#" (click)="request = 'battlegear/ZOTH/4'">battlegear/ZOTH/4</a>,
+      <a href="#" (click)="request = 'attacks/MI'">attacks/MI</a>
+    </i>
+  </p>
 
-  <button id="submit-btn" mat-raised-button color="warn">submit</button>
+  <button id="submit-btn" mat-raised-button color="warn" (click)="submit()">submit</button>
 
-  <div class="cards">
-    <img src="assets/DOP/15.png" id="card">
+  <div class="cards" *ngIf="cards.result != undefined && cards.result.length != undefined">
+    <img *ngFor="let card of cards.result" src="assets/{{card.set}}/{{card.id}}.png" id="card">
+  </div>
+  <div class="cards" *ngIf="cards.result != undefined && cards.result.length == undefined">
+    <img src="assets/{{cards.result.set}}/{{cards.result.id}}.png" id="card">
   </div>
 
-  <h1 id="results" class="mat-headline">Results</h1>
   <mat-card id="results-card">
-      <pre style="white-space: pre-wrap">{{ result | json }}</pre>
+      <pre style="white-space: pre-wrap">{{ cards.result | json }}</pre>
   </mat-card>
 </div>
