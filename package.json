@@ -15,6 +15,7 @@
     "cors": "*",
     "express": "*",
     "mongoose": "*",
+    "serve-favicon": "^2.5.0",
     "webpack-dev-server": "^3.1.14"
   },
   "author": "Henry Unite",
