@@ -5,6 +5,16 @@ const port = 3000;
 const cors = require('cors');
 app.use(cors())
 
+const rateLimit = require('express-rate-limit');
+app.enable('trust proxy')
+
+const apiLimiter = rateLimit({
+  windowMS: 15 * 60 * 1000,
+  max: 100
+})
+
+app.use(apiLimiter)
+
 const path = require('path');
 app.use(express.static(path.join(__dirname, 'chaotic-game/dist/chaotic-game')));
 
