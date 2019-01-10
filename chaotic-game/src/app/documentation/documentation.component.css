@@ -1,0 +1,14 @@
+.content{
+  padding: 1em;
+}
+
+.main{
+  text-align: center;
+  background-color: #4C4C4C;
+  color: #fafafa;
+  padding: 3em;
+}
+
+.main-header{
+  margin-bottom: .5em;
+}
