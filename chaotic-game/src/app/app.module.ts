@@ -14,6 +14,7 @@ import { DocumentationComponent } from './documentation/documentation.component'
 import { AboutComponent } from './about/about.component';
 
 import { CardsService } from './cards.service';
+import { CreatureTableComponent } from './creature-table/creature-table.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { CardsService } from './cards.service';
     HomeComponent,
     MenuComponent,
     DocumentationComponent,
-    AboutComponent
+    AboutComponent,
+    CreatureTableComponent
   ],
   imports: [
     BrowserModule,
