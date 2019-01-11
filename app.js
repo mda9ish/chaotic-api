@@ -54,9 +54,11 @@ db.once('open', () => {
     res.sendFile(path.join(__dirname + '/chaotic-game/dist/chaotic-game'));
   })
 
+  /*
   app.get('/about', (req, res) => {
     res.sendFile(path.join(__dirname + '/chaotic-game/dist/chaotic-game'));
   })
+  */
 
   app.get('/:set/:id', (req, res) => {
     res.sendFile(path.join(__dirname + `/chaotic-game/dist/chaotic-game/assets/${req.params.set}/${req.params.id}.png`));
