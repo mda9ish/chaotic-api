@@ -38,8 +38,7 @@ const SETS_DATA = [
   {id: 'ROTO', name: 'Rise of the Oligarch'},
   {id: 'TOTT', name: 'Turn of the Tide'},
   {id: 'FUN', name: 'Forged Unity'},
-  {id: 'AU', name: 'Aliances Unraveled'},
-  {id: 'LR', name: 'League Rewards'}
+  {id: 'AU', name: 'Aliances Unraveled'}
 ]
 
 @Component({
