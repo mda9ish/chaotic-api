@@ -11,7 +11,8 @@ import {
   MatFormFieldModule,
   MatCardModule,
   MatExpansionModule,
-  MatTableModule
+  MatTableModule,
+  MatDividerModule
 } from '@angular/material';
 
 @NgModule({
@@ -27,7 +28,8 @@ import {
     MatFormFieldModule,
     MatCardModule,
     MatExpansionModule,
-    MatTableModule
+    MatTableModule,
+    MatDividerModule
   ],
   exports: [
     MatSidenavModule,
@@ -39,7 +41,8 @@ import {
     MatFormFieldModule,
     MatCardModule,
     MatExpansionModule,
-    MatTableModule
+    MatTableModule,
+    MatDividerModule
   ],
   entryComponents: []
 })
