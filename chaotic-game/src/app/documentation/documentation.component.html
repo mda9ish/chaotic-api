@@ -15,6 +15,27 @@
 
         </mat-panel-description>
       </mat-expansion-panel-header>
+
+      <p style="margin: 1em;">
+      The Chaotic TCG API is free to use and utilizes simple HTTP requests
+      to retrieve data from the server. To try it out, open a terminal and
+      make a <code>curl</code> request.
+      </p>
+
+      <mat-card class="code">
+        <code>
+          curl http://chaoticga.me/creatures/DOP/15
+        </code>
+      </mat-card>
+
+      <p style="margin: 1em;">
+        This should return the data JSON data for the creature card Maxxor in
+        the DOP (Dawn of Perim) set.
+      </p>
+
+      <mat-card class="code">
+        <code>{{maxxor | json}}</code>
+      </mat-card>
     </mat-expansion-panel>
 
     <mat-expansion-panel>

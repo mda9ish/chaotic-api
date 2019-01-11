@@ -12,3 +12,8 @@
 .main-header{
   margin-bottom: .5em;
 }
+
+.code{
+  white-space: pre-wrap;
+  overflow-y: scroll;
+}
