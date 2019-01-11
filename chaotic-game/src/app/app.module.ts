@@ -15,6 +15,7 @@ import { AboutComponent } from './about/about.component';
 
 import { CardsService } from './cards.service';
 import { CreatureTableComponent } from './creature-table/creature-table.component';
+import { BattlegearTableComponent } from './battlegear-table/battlegear-table.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { CreatureTableComponent } from './creature-table/creature-table.componen
     MenuComponent,
     DocumentationComponent,
     AboutComponent,
-    CreatureTableComponent
+    CreatureTableComponent,
+    BattlegearTableComponent
   ],
   imports: [
     BrowserModule,
