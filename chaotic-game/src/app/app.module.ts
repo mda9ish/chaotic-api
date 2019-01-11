@@ -16,6 +16,9 @@ import { AboutComponent } from './about/about.component';
 import { CardsService } from './cards.service';
 import { CreatureTableComponent } from './creature-table/creature-table.component';
 import { BattlegearTableComponent } from './battlegear-table/battlegear-table.component';
+import { AttackTableComponent } from './attack-table/attack-table.component';
+import { MugicTableComponent } from './mugic-table/mugic-table.component';
+import { LocationTableComponent } from './location-table/location-table.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +28,10 @@ import { BattlegearTableComponent } from './battlegear-table/battlegear-table.co
     DocumentationComponent,
     AboutComponent,
     CreatureTableComponent,
-    BattlegearTableComponent
+    BattlegearTableComponent,
+    AttackTableComponent,
+    MugicTableComponent,
+    LocationTableComponent
   ],
   imports: [
     BrowserModule,
