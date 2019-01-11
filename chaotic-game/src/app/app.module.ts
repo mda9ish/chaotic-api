@@ -19,6 +19,7 @@ import { BattlegearTableComponent } from './battlegear-table/battlegear-table.co
 import { AttackTableComponent } from './attack-table/attack-table.component';
 import { MugicTableComponent } from './mugic-table/mugic-table.component';
 import { LocationTableComponent } from './location-table/location-table.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -31,7 +32,8 @@ import { LocationTableComponent } from './location-table/location-table.componen
     BattlegearTableComponent,
     AttackTableComponent,
     MugicTableComponent,
-    LocationTableComponent
+    LocationTableComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
