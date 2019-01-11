@@ -29,6 +29,18 @@ const MAXXOR_DATA = JSON.parse(`{
 "gender": "Male",
 "exclusive": ""
 }`)
+const SETS_DATA = [
+  {id:'DOP', name: 'Dawn of Perim'},
+  {id:'ZOTH', name: 'Zenith of the Hive'},
+  {id: 'OP1', name: 'Organized Play 1'},
+  {id: 'SS', name: 'Silent Sands'},
+  {id: 'MI', name: 'M\'arrillian Invasion'},
+  {id: 'ROTO', name: 'Rise of the Oligarch'},
+  {id: 'TOTT', name: 'Turn of the Tide'},
+  {id: 'FUN', name: 'Forged Unity'},
+  {id: 'AU', name: 'Aliances Unraveled'},
+  {id: 'LR', name: 'League Rewards'}
+]
 
 @Component({
   selector: 'app-documentation',
@@ -38,9 +50,11 @@ const MAXXOR_DATA = JSON.parse(`{
 export class DocumentationComponent implements OnInit {
 
   public maxxor: String;
+  public sets;
 
   constructor() {
     this.maxxor = MAXXOR_DATA;
+    this.sets = SETS_DATA;
   }
 
   ngOnInit() {

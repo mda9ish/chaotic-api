@@ -46,6 +46,14 @@
 
         </mat-panel-description>
       </mat-expansion-panel-header>
+
+      <p style="margin: 1em;">
+        Make all API requests to this URL.
+      </p>
+
+      <mat-card class="code">
+        <code>http://chaoticga.me/</code>
+      </mat-card>
     </mat-expansion-panel>
 
     <mat-expansion-panel>
@@ -56,16 +64,32 @@
 
         </mat-panel-description>
       </mat-expansion-panel-header>
+
+      <p style="margin: 1em">
+        Choatic TCG API is a free API, so there is no authentication required to
+        make use of it. However, since it is free every IP is limited to how many
+        requests can be made over a ceratin amount of time.
+      </p>
     </mat-expansion-panel>
 
     <mat-expansion-panel>
       <mat-expansion-panel-header>
         <mat-panel-title><strong>Chaotic Sets</strong></mat-panel-title>
-
         <mat-panel-description>
 
         </mat-panel-description>
       </mat-expansion-panel-header>
+
+      <p style="margin: 1em;">
+        Here is a list of all the sets that can be referenced in a given API request.
+      </p>
+
+      <mat-list>
+        <mat-list-item *ngFor="let set of sets">
+          <p>{{set.id}}</p>
+          <p matLine>{{set.name}}</p>
+        </mat-list-item>
+      </mat-list>
     </mat-expansion-panel>
 
     <mat-expansion-panel>
@@ -76,6 +100,17 @@
 
         </mat-panel-description>
       </mat-expansion-panel-header>
+
+      <p style="margin: 1em;">
+        You can reference any card's image by using this URL.
+      </p>
+
+      <mat-card class="code" style="margin: 1em;">
+        <code>http://chaoticga.me/DOP/15</code>
+      </mat-card>
+
+      <img src="assets/DOP/15.png" id="card-image">
+
     </mat-expansion-panel>
   </mat-accordion>
 

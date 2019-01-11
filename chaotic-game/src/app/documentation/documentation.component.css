@@ -17,3 +17,8 @@
   white-space: pre-wrap;
   overflow-y: scroll;
 }
+
+#card-image{
+  margin: 0 auto;
+  display: block;
+}
