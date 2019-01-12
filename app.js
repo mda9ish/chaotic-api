@@ -47,11 +47,11 @@ db.once('open', () => {
   app.use('/cards', cards)
 
   app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname + '/chaotic-game/dist/chaotic-game'));
+    res.sendFile(path.join(__dirname + '/chaotic-game/dist/chaotic-game/index.html'));
   })
 
   app.get('/api', (req, res) => {
-    res.sendFile(path.join(__dirname + '/chaotic-game/dist/chaotic-game'));
+    res.sendFile(path.join(__dirname + '/chaotic-game/dist/chaotic-game/index.html'));
   })
 
   /*
