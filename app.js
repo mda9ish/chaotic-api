@@ -47,11 +47,11 @@ db.once('open', () => {
   app.use('/cards', cards)
 
   app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname + 'chaotic-game/dist/chaotic-game', 'index.html'));
+    res.sendFile(path.join(__dirname + '/chaotic-game/dist/chaotic-game', 'index.html'));
   })
 
   app.get('/api', (req, res) => {
-    res.sendFile(path.join(__dirname + 'chaotic-game/dist/chaotic-game', 'index.html'));
+    res.sendFile(path.join(__dirname + '/chaotic-game/dist/chaotic-game', 'index.html'));
   })
 
   /*
@@ -61,7 +61,7 @@ db.once('open', () => {
   */
 
   app.get('/:set/:id', (req, res) => {
-    res.sendFile(path.join(__dirname + `chaotic-game/dist/chaotic-game/assets/${req.params.set}/${req.params.id}.png`));
+    res.sendFile(path.join(__dirname + `/chaotic-game/dist/chaotic-game/assets/${req.params.set}/${req.params.id}.png`));
   })
 
   app.listen(port, () => {console.log("Server Online!")})
