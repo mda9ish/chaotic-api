@@ -393,7 +393,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var headers = new _angular_common_http__WEBPACK_IMPORTED_MODULE_2__["HttpHeaders"]();
 headers.append('content-type', 'application/json');
-var serverRoute = 'http://localhost:8080/';
+var serverRoute = '';
 var CardsService = /** @class */ (function () {
     function CardsService(http) {
         this.http = http;
