@@ -24,12 +24,7 @@ const attackSchema = mongoose.Schema({
   ability: String,
   flavor: String,
   unique: Number,
-  exclusive: String,
-  image: String,
-  thumb: String,
-  splash: String,
-  artist: String,
-  tags: String
+  artist: String
 });
 
 //Atack Model

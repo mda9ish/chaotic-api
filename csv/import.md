@@ -1,6 +1,6 @@
 #To import CSV file to mLab
 
-```mongoimport -h ds263493.mlab.com:63493 -d heroku_8p4bgrc8 -c <collection-name> -u <dbuser> -p <dbpassword> --file csv/<collection-name>.csv --type csv --headerline```
+```mongoimport -h ds255794.mlab.com:55794 -d heroku_bk7ctjjr -c <collection> -u <user> -p <password> --file <input .csv file> --type csv --headerline```
 
 #To connect to mLab to she
 

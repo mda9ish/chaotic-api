@@ -21,12 +21,7 @@ const LocationSchema = mongoose.Schema({
    unique: String,
    mirage: String,
    past: String,
-   exclusive: String,
-   image: String,
-   thumb: String,
-   splash: String,
-   artist: String,
-   tags: String
+   artist: String
 });
 
 //Location Model

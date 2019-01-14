@@ -1,386 +1,383 @@
-name,set,rarity,id,bp,base,fire,air,earth,water,ability,flavor,unique,exclusive,image,thumb,splash,artist,tags
-Allmageddon,DOP,Super Rare,87,5,10,10,10,10,10,,,1,,0B6oyUfwoM3u1SEU0M2dUSnktWnc,1eQIHQCj8cHLESkhDJ7-DvqCwOwfvFRcS,1isNHMSzlMSzqOrefPphFiq0iW2wBd2mO,"Edwin Nebres, David Curiel ",
-Ash Torrent,DOP,Uncommon,88,1,0,5,,5,,Challenge Power 15: Deal 10 Damage.,,,Starter,0B6oyUfwoM3u1YkpNWGVBblNrNm8,1RIkvGFiwQWRVLTIcVz4kxgwOPA0tE-Xk,1F28qPk2ga1dEgQNKkc28sKd5fXnvpnem,"Andrew Bradshaw, Etienne St.Laurent",
-Coil Crush,DOP,Super Rare,89,3,5,,,,,Stat Check Power 75: Choose a Battlegear equipped to an opposing Creature and destroy it,,,,0B6oyUfwoM3u1cVdnZDFzU1JpVUE,1veRj5c0vZbegbP5kk5moXwUnpG1PvvjB,176Jm5igVzudTNuBYHdFtF53z0p24st6b,"David Rodriguez, Edwin Nebres, David Curiel ",
-Degenervate,DOP,Rare,90,0,0,,,,0,"Water: Opposing Creature loses 25 Courage, Power, Wisdom, and Speed. Your engaged Creature loses Water.",,,,0B6oyUfwoM3u1WkR6N01JNGREc0U,1fKiHCkChXfJ0k7kkbL8RZMpTZjSWEx6f,1foNY5V-v8_KodJvqr9HOtTEPPW8w224L,"Andrew Bradshaw, Etienne St.Laurent, Edwin Nebres",
-Delerium,DOP,Common,91,0,0,,,,,Stat Check Wisdom 50: Deal 5 damage.,Here's something for your lack of inspiration!,,Starter,0B6oyUfwoM3u1eG41dFV0UlRic2s,1BnLJ4G9BNU8jIW5yhF5gw-5kY_sP-z08,1PuMOc0f-dZUiYLco3LfHNtb876nCLXQd,"Andrew Bradshaw, Etienne St.Laurent",
-Ektospasm,DOP,Common,92,0,0,,,,,Stat Check Power 50: Deal 5 damage.,This will fit you good!,,Starter,0B6oyUfwoM3u1RTJsWE1qWTlBdVk,1oMCKJKh-IE94MIqAgvzwpHcHjBPLwZP2,14A_vnhxzHNKY7FDLR8Edn1YN9rSsexq6,"Keith Conroy, Jimmy Tran",
-Ember Swarm,DOP,Uncommon,93,1,5,5,,,,Fire: Opposing engaged Creature loses 25 Wisdom.,,,Starter,0B6oyUfwoM3u1ODZDQU5fLXhaRWM,1QoTGTJxVWT92ikEF8Td90Jqq-_1s_prP,1Npreku3EOFIjeKj1U5qUBu6DgfV32qHR,"Etienne St.Laurent, Edwin Nebres",
-Evaporize,DOP,Rare,94,0,0,,,,,Challenge Courage 15: Heal 10 damage.,,,,0B6oyUfwoM3u1c2VmSnpTMlREQ0E,1nO9tUNPG4vN8M4AliPbdGg_yWzGWuU4I,15PMjYeYJjvbb7aoQYObB5XGZIfXaSmoR,"Andrew Bradshaw, David Curiel ",
-Fearocity,DOP,Super Rare,95,2,5,,5,,,Stat Check Courage 75: Deal 10 damage.,,,,0B6oyUfwoM3u1QnY4aUlnbXUwYmM,1o0Wr4fgo67QfrXP-IEjh2_vBZb5aemXw,1EJcKdA-8StqrlK0ry8OOwwjJv9Bu_uaa,"Andrew Bradshaw, David Curiel ",
-Flame Orb,DOP,Super Rare,96,2,5,5,,,,Stat Check Power 75: Deal 10 damage.,,,,0B6oyUfwoM3u1eWRRNHBFYVlVQVU,12dKRBD5hFsiemmnVJpwQlYlXMtqxI3Ar,145f58G7tdlXPwk6u3DXbX1LWrITJeWHb,"Edwin Nebres, David Curiel",
-Flash Kick,DOP,Uncommon,97,1,5,,,,,Look at the top two cards of your Location Deck. Put one of them on top of that deck and the other on the bottom.,,,,0B6oyUfwoM3u1MWppV2k4WlpmRHM,1Pmu9gUtWhPcmy1PvS-UJiISV-TxeTY_l,1Ki0Ll-QsNsYPNfEZ5ltDOSae0cJfqeqH,"Andrew Bradshaw, David Curiel",Dagger
-Flash Mend,DOP,Rare,98,0,0,,,,,Stat Check Wisdom 50: Heal 5 damage.,,,,0B6oyUfwoM3u1Vm9PeVNXbVdWTEE,1_2XlBDTe0E_NaBlXMaAcnhbSG-IArdiA,1gXPXdp5zBvQ2Fr_eJLKLFaiAA7IxuGCm,"Edwin Nebres, Rudy Nebres, Axer",
-Flashwarp,DOP,Common,99,0,0,,,,,Challenge Power 15: Deal 10 damage.,,,,0B6oyUfwoM3u1WXJDaGt3MjlNbFk,1EyV2VcaMTuQ8ub7AsIMA5qt9VAXt3i31,1M_Um4N6mH45zPvQHBps4S6zTDRRYo92S,Emilio Lopez,
-Frost Blight,DOP,Super Rare,100,2,5,,,,5,Stat Check Speed 75: Deal 10 damage.,,,,0B6oyUfwoM3u1UDZBQWFUVFVDTDA,171BTOfpbyqWLYk_kX7L8PdtGYXOURQzv,1PrUp_QdZ83iVNI9xOSCBDYx49iCkndYu,"Jimmy Tran, Adrian Barrios",
-Hail Storm,DOP,Super Rare,101,3,10,,5,,5,,,,Starter,0B6oyUfwoM3u1SDVoY3VWOS1UdFk,131HnYFw3xmqdgqybEqppICPmbWNVV79t,14fuPORK10Ck9QLqwdoT3IiE4UheEOSZU,"Andrew Bradshaw, Etienne St.Laurent",
-Hive Call,DOP,Rare,102,0,0,,,,,"You may remove a Mugic counter from a Creature you control. If you do, activate Hive.",,,Starter,0B6oyUfwoM3u1emNhNzc2WHVtRnM,1HL__HgM03otyTEQijnYDVqbMfreb4810,1cHnHFfTLtCUN7okdRU90hlBiOc9N5LWw,"David Curiel, Francis Barrios",Dagger
-Incinerase,DOP,Rare,103,0,0,10,,,,Fire: Your engaged Creature loses Fire.,,,,0B6oyUfwoM3u1Q1hpUVc2WE8tMjA,1Vly4r9k0aDNpqC7k-A5Wq_FqGA7SShmH,1v7TmL4Bg9f7ee1Xu9XqVo-ba_ZYmJJl8,Emilio Lopez,
-Inferno Gust,DOP,Uncommon,104,1,0,5,5,,,Challenge Speed 15: Deal 10 damage.,,,Starter,0B6oyUfwoM3u1OWFGT1FUc2djTWs,1rVhrZYlRwwYUzm5aJZGgImYwly-4Oicr,12BrsnjEjpO0tM8ERs1eqze56gkvcr4Jq,"Adrian Barrios, David Curiel ",
-Iron Balls,DOP,Super Rare,105,1,0,,,,,Only Generic Mugic may be played.,,,,0B6oyUfwoM3u1dFFXdnVPWGhVT0E,1Fh3igUI3U3kMh1zlVObVS9l3YZOGTLgE,1_ZThZp_4nWLHOAfHeqCskaNtB6I3Zi9a,"Edwin Nebres, Andrew Bradshaw, Etienne St.Laurent",Dagger
-Lavalanche,DOP,Super Rare,106,3,10,5,,5,,,,,Starter,0B6oyUfwoM3u1UGdHZDN3b3VCTDg,1T-JTm3IN2K2w0Qu7fK-muNbAJpJfIg51,1l2VEVz9YSADynNfk-T4UFOE22ZL3VQGo,"Edwin Nebres, Andrew Bradshaw, Axer",
-Lightning Burst,DOP,Uncommon,107,1,5,,5,,,Air: Opposing engaged Creature loses 25 Power.,,,,0B6oyUfwoM3u1LWtreXpyRzV1RVE,1vIVzM08S2aBQ2EBAup6wEMRrrtr_c2Ou,1ryb55KUuikKwiNBLMoUjBSIGGZ2LTiYI,"David Rodriguez, Edwin Nebres, Etienne St.Laurent",
+name,set,rarity,id,bp,base,fire,air,earth,water,ability,Flavor Text,Unique,Artist
+Allmageddon,DOP,Super Rare,87,5,10,10,10,10,10,,,1,"Edwin Nebres, David Curiel "
+Ash Torrent,DOP,Uncommon,88,1,0,5,,5,,Challenge Power 15: Deal 10 Damage.,,,"Andrew Bradshaw, Etienne St.Laurent"
+Coil Crush,DOP,Super Rare,89,3,5,,,,,Stat Check Power 75: Choose a Battlegear equipped to an opposing Creature and destroy it,,,"David Rodriguez, Edwin Nebres, David Curiel "
+Degenervate,DOP,Rare,90,0,0,,,,0,"Water: Opposing Creature loses 25 Courage, Power, Wisdom, and Speed. Your engaged Creature loses Water.",,,"Andrew Bradshaw, Etienne St.Laurent, Edwin Nebres"
+Delerium,DOP,Common,91,0,0,,,,,Stat Check Wisdom 50: Deal 5 damage.,Here's something for your lack of inspiration!,,"Andrew Bradshaw, Etienne St.Laurent"
+Ektospasm,DOP,Common,92,0,0,,,,,Stat Check Power 50: Deal 5 damage.,This will fit you good!,,"Keith Conroy, Jimmy Tran"
+Ember Swarm,DOP,Uncommon,93,1,5,5,,,,Fire: Opposing engaged Creature loses 25 Wisdom.,,,"Etienne St.Laurent, Edwin Nebres"
+Evaporize,DOP,Rare,94,0,0,,,,,Challenge Courage 15: Heal 10 damage.,,,"Andrew Bradshaw, David Curiel "
+Fearocity,DOP,Super Rare,95,2,5,,5,,,Stat Check Courage 75: Deal 10 damage.,,,"Andrew Bradshaw, David Curiel "
+Flame Orb,DOP,Super Rare,96,2,5,5,,,,Stat Check Power 75: Deal 10 damage.,,,"Edwin Nebres, David Curiel"
+Flash Kick,DOP,Uncommon,97,1,5,,,,,Look at the top two cards of your Location Deck. Put one of them on top of that deck and the other on the bottom.,,,"Andrew Bradshaw, David Curiel"
+Flash Mend,DOP,Rare,98,0,0,,,,,Stat Check Wisdom 50: Heal 5 damage.,,,"Edwin Nebres, Rudy Nebres, Axer"
+Flashwarp,DOP,Common,99,0,0,,,,,Challenge Power 15: Deal 10 damage.,,,Emilio Lopez
+Frost Blight,DOP,Super Rare,100,2,5,,,,5,Stat Check Speed 75: Deal 10 damage.,,,"Jimmy Tran, Adrian Barrios"
+Hail Storm,DOP,Super Rare,101,3,10,,5,,5,,,,"Andrew Bradshaw, Etienne St.Laurent"
+Hive Call,DOP,Rare,102,0,0,,,,,"You may remove a Mugic counter from a Creature you control. If you do, activate Hive.",,,"David Curiel, Francis Barrios"
+Incinerase,DOP,Rare,103,0,0,10,,,,Fire: Your engaged Creature loses Fire.,,,Emilio Lopez
+Inferno Gust,DOP,Uncommon,104,1,0,5,5,,,Challenge Speed 15: Deal 10 damage.,,,"Adrian Barrios, David Curiel "
+Iron Balls,DOP,Super Rare,105,1,0,,,,,Only Generic Mugic may be played.,,,"Edwin Nebres, Andrew Bradshaw, Etienne St.Laurent"
+Lavalanche,DOP,Super Rare,106,3,10,5,,5,,,,,"Edwin Nebres, Andrew Bradshaw, Axer"
+Lightning Burst,DOP,Uncommon,107,1,5,,5,,,Air: Opposing engaged Creature loses 25 Power.,,,"David Rodriguez, Edwin Nebres, Etienne St.Laurent"
 Lucky Shot,DOP,Ultra Rare,108,4,0,,,,,"If your engaged Creature has lower Courage, Power, Wisdom, Speed and Energy than the opposing engaged Creature, deal 40 damage.
-Unique",,1,Starter,0B6oyUfwoM3u1ZEpWaUwyS2tVWGM,1ypJTapBUQR2a5jVgHbqHj4TPGX6b1QjX,1W1r89NfJ_hgi9ZY-cdrsQamxbn6zfPLh,"Edwin Nebres, Andrew Bradshaw, David Curiel ",Dagger
+Unique",,1,"Edwin Nebres, Andrew Bradshaw, David Curiel "
 Megaroar,DOP,Ultra Rare,109,4,0,,,,,"Stat Check Courage 70: Deal 10 damage.
 Stat Check Power 70: Deal 10 damage.
 Stat Check Wisdom 70: Deal 10 damage.
-Stat Check Speed 70: Deal 10 damage.",,1,,0B6oyUfwoM3u1ZS1jQXRJNjU0VDA,1nifkTh9aezak1ClI7K6FFH5v7Fsx_zD9,1iQK5nnQqK9LCU5mlSz4EF6ZPPidYOps5,"David Rodriguez, Edwin Nebres, David Curiel ",
-Mirthquake,DOP,Rare,110,0,0,,,0,,Earth: The top card of your Location deck becomes the new active Location. Your engaged Creature loses Earth.,,,,0B6oyUfwoM3u1TjV5Ylcwd1hJN0E,1wsc1a4JXjG0Yl0rjWiAaxUV8KmjRdq1B,1-Hdyq9fDzILC6Er9dIwuUeaOSjUUdys1,"Edwin Nebres, Andrew Bradshaw, David Curiel",
-Paral-Eyes,DOP,Rare,111,2,10,,,,,Challenge Speed 15: Deal 10 damage.,,,,0B6oyUfwoM3u1NFBoVVJZaHZfSTQ,1fLgVkM0I3g0B0ZeR8D61DCkW-c0gsCSD,1V2BfHApwGFVZhxLzhT2vBtIGKIeHYO2U,"Jason Narvaez, Etienne St.Laurent",Paral eyes paraleyes
-Pebblestorm,DOP,Common,112,1,0,,5,5,,,,,Starter,0B6oyUfwoM3u1V1ZTV3pzSnZtd2M,1BgWtmNRvs1tIYFUiTZLZvWSIaaBtSSye,1bDJD8-Rrn618s5Me84s-IqC4_evoS2Bd,"Edwin Nebres, David Curiel ",
-Power Pulse,DOP,Rare,113,2,10,,,,,Challenge Power 15: Deal 10 damage.,,,,0B6oyUfwoM3u1a0RJUHd0ZDZZQ2c,1tPLa7MaF8T24uxCEwwdifFcCod_YomdW,1W6gO2D2FCJqQL_1Q0mdWoqLsDKaNeoHR,"Edwin Nebres, Etienne St.Laurent",
-Quick Exit,DOP,Common,114,0,0,,,,,Challenge Wisdom 15: Deal 10 damage.,,,Starter,0B6oyUfwoM3u1SHVjbElMaXhDWWs,1650OYmw3-yVm2Y1FnNFnA_l39qLhWrNe,1AbQHW_mJ1-p4giwMjaq8vdsB-cZsC7O3,"Andrew Bradshaw, David Curiel",
-Rip Tide,DOP,Uncommon,115,1,5,,,,5,Water: Opposing engaged Creature loses 25 Courage.,Watch out for the undertow!,,Starter,0B6oyUfwoM3u1cW8wdlZEMmNDams,1mGJO4aOCkHhqZ0ax__11xyDXoSOiIt8Z,1JNUggdK3gTOlmn_qJPbgqcv14KimQeAS,"Edwin Nebres, Andrew Bradshaw, David Curiel",
-Rock Wave,DOP,Super Rare,116,2,5,,,5,,Stat Check Wisdom 75: Deal 10 damage.,Time to smash ashore.,,,0B6oyUfwoM3u1aFVWR0VrT1IxcGc,1Giz8qQ3iZTMji00N7GzVGJPBGg8nLhUx,1HKcb7EKYirQowZ-1k5W33G_bLjv789dH,"Edwin Nebres, Etienne St.Laurent",
-Rustoxic,DOP,Uncommon,117,1,0,,,5,5,Challenge Courage 15: Deal 10 damage.,,,,0B6oyUfwoM3u1SGt1WVlaOGU2djA,"
-1bH8GCTYBkCxTAB9KGh2GhOTm7RdII_qV",1RCfF9augNwJ_G4aSq88bL15ci-fyZLvO,"Andrew Bradshaw, David Curiel",
-Shadow Strike,DOP,Common,118,0,0,,,,,Challenge Courage 15: Deal 10 damage.,Are you scared of the dark?,,Starter,0B6oyUfwoM3u1T09lLXRlRldjeEE,"
-1G-Rte1jhu_qtWhEsAkwOCOrBO00J8XC5",1mixQKBKXPrL_5dz8I65hupN5Yu1XBi-W,"Andrew Bradshaw, David Curiel",
-Shriek Shock,DOP,Common,119,0,0,,,,,Stat Check Speed 50: Deal 5 damage.,This will be my winning striek!,,Starter,0B6oyUfwoM3u1RXhUdDBBLXByYnM,14w5oLs5GjkUcmuF-V0LztWLwC2A3gAqF,14-9XiB46-UpB_lklSfTAoD6Me_hTWxXs,"David Rodriguez, Edwin Nebres, Etienne St.Laurent",
-Skeletal Strike,DOP,Rare,120,2,10,,,,,Challenge Courage 15: Deal 10 damage.,,,,0B6oyUfwoM3u1Xy12dk5LLWpxLWs,1YuzCizQo4Q2UJ_t3aNGGWsLdcsJ2ABpQ,122sMbzYaKnIINXIF32gXKDzp78ltCl1I,"David Rodriguez, Edwin Nebres, Teodoro Gonzalez",
-Sleep Sting,DOP,Rare,121,2,10,,,,,Challenge Wisdom 15: Deal 10 damage.,,,,0B6oyUfwoM3u1RHF6ZnBxRGxtZkk,1fsHycpF8Ot4KpsxS-GZnwbBapoBUJfcr,15izcrgqUH64dNvivyHsATT1w993HF_rf,"Adrian Barrios, Jimmy Tran",
-Sludge Gush,DOP,Super Rare,122,3,10,,,5,5,,,,Starter,0B6oyUfwoM3u1U19GQWg4Uk1xSmc,16hN6HH5Ikcc8zxOjbNvmMtVGTNpGIWKf,1UoZYmh-iQJwGWwtx4X8K1jHh4C5jO8XO,"Adrian Barrios, Etienne St.Laurent",
-Spirit Gust,DOP,Common,123,0,0,,,,,Stat Check Courage 50: Deal 5 damage.,This will blow you away.,,Starter,0B6oyUfwoM3u1YzMtRTBwczFhNlE,"
-1DIBBC9UdLBRkblrB8br4ydPkgK2IVUsl",1aaSY19-achIPeSLy-1xDn3JjbRQokpl5,"Andrew Bradshaw, Edwin Nebres, David Curiel ",
-Squeeze Play,DOP,Uncommon,124,1,5,,,,,Look at the top two cards of your Attack Deck. Put one of them on top of that deck and the other on the bottom.,,,,0B6oyUfwoM3u1Zk1laWl6OVNZbEk,1qZI5gYVbZtSx6dMfhg1kIoESRsBllf4S,1OfOe_gtMa0kC9Yu7Fw_HUPscSuoUU-95,"Andrew Bradshaw, Edwin Nebres, David Curiel ",Dagger
-Steam Rage,DOP,Common,125,1,0,5,,,5,,,,Starter,0B6oyUfwoM3u1dVFiNWw2Nkl6aTA,1kn7BRWrjAWmmR0eTkBFwr8SScjyov5Cx,1VEkYvV1LZBOrypB6YaoyeLceuvePWg6h,"Adrian Barrios, Etienne St.Laurent",
-Telekinetic Bolt,DOP,Super Rare,126,3,10,,,,,"Challenge Courage 15, Challenge Wisdom 15: Deal 10 damage and heal 10 damage.",,,,0B6oyUfwoM3u1N3cydG16djNmYTA,1MeasUvVgCg5UgkzxYEDhabx3lIqeoE3w,1Z_uV-zE1-cBg3pMkzHgzB6YomloDDf5R,"Andrew Bradshaw, Edwin Nebres, Etienne St.Laurent",
-Thunder Shout,DOP,Common,127,2,0,,10,10,,,,,Starter,0B6oyUfwoM3u1QnRVTFZaRWNId1k,1bn7eFZSyn2u8DsS4jy5NJBQ_v4tz5LeH,1eZyFDmCgm6jpxF1peyvZgA8K6kD7UROD,"Andrew Bradshaw, Edwin Nebres, David Curiel ",
-Tornado Tackle,DOP,Rare,128,0,0,,0,,,Air: Both players shuffle their Attack Decks and Attack Discard piles together.,,,,0B6oyUfwoM3u1VWxYbGFESVFQRWM,1Gldjzb-0mkjD_S7E3z_ajU-C2NB097HA,1Xuynd7tIEOZZ0M7-seAoQ1sAQfYsavPb,"David Rodriguez, Etienne St.Laurent",
-Torrent of Flame,DOP,Common,129,2,0,10,,,10,,,,,0B6oyUfwoM3u1SHFjSlJ0SDBsWVk,1MZL008HWfQ0inlwIzbysAOlbOWa_fRg7,1R3vlrVxam1p75UX7_MLPiC7HRRtRXGYn,Emilio Lopez,
-Toxic Gust,DOP,Super Rare,130,3,10,5,5,,,,,,Starter,0B6oyUfwoM3u1ZXF3YUQtMzV1UW8,1NkhK_vGzzyO03_Ar8dpdg1HpyZEI9EFA,1ccBuRCQQprVgPu-qa-_Tzv1RkW0dKRup,"Adrian Barrios, Etienne St.Laurent",
-Unsanity,DOP,Uncommon,131,1,0,,5,,5,Challenge Wisdom 15: Deal 10 damage.,,,,0B6oyUfwoM3u1TTJnc1RtVG9YUlE,1SmjamAQzhMZ14uOuvotiLkA_9qGC4Ryl,1kRgmZeo8rndGg9Mdccj4kkWHiKmTpaT7,"Andrew Bradshaw, Edwin Nebres, Etienne St.Laurent",
-Velocitrap,DOP,Common,132,0,0,,,,,Challenge Speed 15: Deal 10 damage.,Sorry for the run around.,,,0B6oyUfwoM3u1T05hUHBhWTZjcVU,1-9UuSj4BSh4-_2Un9TI6AKbTJlfRta6Y,1_tADHCEX8liMUdFdgDa7dCTvs4nKRuuO,"David Curiel, Francis Barrios",
-Vine Snare,DOP,Uncommon,133,1,5,,,5,,Earth: Opposing engaged Creature loses 25 Speed.,,,Starter,0B6oyUfwoM3u1U2U1ZFphT3JtMFU,1EyR2IULOc_yA6T47JVA57_-vDjAaHWy8,1ppHxpqYAnodi4BfJ5Nw2KmeJiUODhSTG,"Edwin Nebres, Etienne St.Laurent",
-Viperlash,DOP,Rare,134,3,15,,,,,,,,Starter,0B6oyUfwoM3u1aEhsczlKMmZiZkU,1VZ_rLxSg92HjObCvPApmUvlUmyr2Lxlp,1kMFUMxkFgXJVk4zPrz5kuKgAmdBBaDb6,"Andrew Bradshaw, David Curiel ",Dagger
-Windslash,DOP,Uncommon,135,1,5,,,,,Your opponent turns all face‐down Battlegear Cards they control face up.,,,,0B6oyUfwoM3u1cmRLMFJBUU80dlU,11yaDmWXEdy1NV4jacinqvEuG6CDFlGox,1ob36rL73BKn6UauW26G9O_XAdwtNxdpK,"David Rodriguez, Emilio Lopez",Dagger
-Accelerated Unity,ZOTH,Common,36,2,0,,,,,Deal 5 damage for each Tribe you control beyond the first.,,,,0B6oyUfwoM3u1YjNXMzZoVkUydWM,1RVrTv9t06PM3c9ZyGeoRta8gWhLCe5lE,1yIO7-mAIOqYKzYN8uKySmBAWtL5f1Yaf,"Andrew Bradshaw, Edwin Nebres, Anthony Washington",Dagger
+Stat Check Speed 70: Deal 10 damage.",,1,"David Rodriguez, Edwin Nebres, David Curiel "
+Mirthquake,DOP,Rare,110,0,0,,,0,,Earth: The top card of your Location deck becomes the new active Location. Your engaged Creature loses Earth.,,,"Edwin Nebres, Andrew Bradshaw, David Curiel"
+Paral-Eyes,DOP,Rare,111,2,10,,,,,Challenge Speed 15: Deal 10 damage.,,,"Jason Narvaez, Etienne St.Laurent"
+Pebblestorm,DOP,Common,112,1,0,,5,5,,,,,"Edwin Nebres, David Curiel "
+Power Pulse,DOP,Rare,113,2,10,,,,,Challenge Power 15: Deal 10 damage.,,,"Edwin Nebres, Etienne St.Laurent"
+Quick Exit,DOP,Common,114,0,0,,,,,Challenge Wisdom 15: Deal 10 damage.,,,"Andrew Bradshaw, David Curiel"
+Rip Tide,DOP,Uncommon,115,1,5,,,,5,Water: Opposing engaged Creature loses 25 Courage.,Watch out for the undertow!,,"Edwin Nebres, Andrew Bradshaw, David Curiel"
+Rock Wave,DOP,Super Rare,116,2,5,,,5,,Stat Check Wisdom 75: Deal 10 damage.,Time to smash ashore.,,"Edwin Nebres, Etienne St.Laurent"
+Rustoxic,DOP,Uncommon,117,1,0,,,5,5,Challenge Courage 15: Deal 10 damage.,,,"Andrew Bradshaw, David Curiel"
+Shadow Strike,DOP,Common,118,0,0,,,,,Challenge Courage 15: Deal 10 damage.,Are you scared of the dark?,,"Andrew Bradshaw, David Curiel"
+Shriek Shock,DOP,Common,119,0,0,,,,,Stat Check Speed 50: Deal 5 damage.,This will be my winning striek!,,"David Rodriguez, Edwin Nebres, Etienne St.Laurent"
+Skeletal Strike,DOP,Rare,120,2,10,,,,,Challenge Courage 15: Deal 10 damage.,,,"David Rodriguez, Edwin Nebres, Teodoro Gonzalez"
+Sleep Sting,DOP,Rare,121,2,10,,,,,Challenge Wisdom 15: Deal 10 damage.,,,"Adrian Barrios, Jimmy Tran"
+Sludge Gush,DOP,Super Rare,122,3,10,,,5,5,,,,"Adrian Barrios, Etienne St.Laurent"
+Spirit Gust,DOP,Common,123,0,0,,,,,Stat Check Courage 50: Deal 5 damage.,This will blow you away.,,"Andrew Bradshaw, Edwin Nebres, David Curiel "
+Squeeze Play,DOP,Uncommon,124,1,5,,,,,Look at the top two cards of your Attack Deck. Put one of them on top of that deck and the other on the bottom.,,,"Andrew Bradshaw, Edwin Nebres, David Curiel "
+Steam Rage,DOP,Common,125,1,0,5,,,5,,,,"Adrian Barrios, Etienne St.Laurent"
+Telekinetic Bolt,DOP,Super Rare,126,3,10,,,,,"Challenge Courage 15, Challenge Wisdom 15: Deal 10 damage and heal 10 damage.",,,"Andrew Bradshaw, Edwin Nebres, Etienne St.Laurent"
+Thunder Shout,DOP,Common,127,2,0,,10,10,,,,,"Andrew Bradshaw, Edwin Nebres, David Curiel "
+Tornado Tackle,DOP,Rare,128,0,0,,0,,,Air: Both players shuffle their Attack Decks and Attack Discard piles together.,,,"David Rodriguez, Etienne St.Laurent"
+Torrent of Flame,DOP,Common,129,2,0,10,,,10,,,,Emilio Lopez
+Toxic Gust,DOP,Super Rare,130,3,10,5,5,,,,,,"Adrian Barrios, Etienne St.Laurent"
+Unsanity,DOP,Uncommon,131,1,0,,5,,5,Challenge Wisdom 15: Deal 10 damage.,,,"Andrew Bradshaw, Edwin Nebres, Etienne St.Laurent"
+Velocitrap,DOP,Common,132,0,0,,,,,Challenge Speed 15: Deal 10 damage.,Sorry for the run around.,,"David Curiel, Francis Barrios"
+Vine Snare,DOP,Uncommon,133,1,5,,,5,,Earth: Opposing engaged Creature loses 25 Speed.,,,"Edwin Nebres, Etienne St.Laurent"
+Viperlash,DOP,Rare,134,3,15,,,,,,,,"Andrew Bradshaw, David Curiel "
+Windslash,DOP,Uncommon,135,1,5,,,,,Your opponent turns all face‐down Battlegear Cards they control face up.,,,"David Rodriguez, Emilio Lopez"
+Accelerated Unity,ZOTH,Common,36,2,0,,,,,Deal 5 damage for each Tribe you control beyond the first.,,,"Andrew Bradshaw, Edwin Nebres, Anthony Washington"
 Acid Wash,ZOTH,Super Rare,37,3,5,,,,10,"Challenge Wisdom 15: Deal 10 damage.
-Water: Uninfect all engaged Creatures. Those Creatures cannot be Infected.",,,,0B6oyUfwoM3u1bWRUUlNoVlZQNXc,15Og6b4ywn42KBMa5jW7DnaoR_rs-Wv1g,1mi27jC1jydVOjp76RlspwqQtKfOljd_V,"Gus Vazquez, Etienne St.Laurent",
-Danihilation,ZOTH,Uncommon,38,2,5,5,,,,"If the opposing engaged Creature is Danian, deal 10 damage.",,,,0B6oyUfwoM3u1TzFJZkxPNElSb1U,1dKWDdUI4DpcZuy19UBUNV75aWv-gnuAm,1kIKIIZsPwqHVXlpsPss-kZJkoprGhiSj,"Chris Dibari, David Curiel",
-Desiccate the Land,ZOTH,Uncommon,39,2,5,,5,0,5,"Earth: If an Attack Card named Desiccate the Land is in your Attack Discard pile, heal 10 damage.",,,,0B6oyUfwoM3u1NU9LYm1remd5Yjg,10mvY7UWF8eEhCYEHK4eqGEXFW5IeCuzu,1rCZQLqtwQwXcR77nsf9qqWsb1A1Zfhjq,"Chris Dibari, Anthony Washington",
-Elementalist's Psy-Blast,ZOTH,Uncommon,40,1,0,,,,,Stat Check Wisdom 50: Deal 5 damage for each Elemental Type your engaged Creature has.,,,,0B6oyUfwoM3u1QVBYN09GS2c2cTQ,1RUzUVzlyxbrHAaG3y3RFDqPELDXUR_LQ,1Ton6RVtqdwnU1ZJE_EUWDLlIlrvEMQa5,Emilio Lopez,
-Freeze Flash,ZOTH,Common,41,2,0,,10,10,0,Water: Opposing engaged Creature loses 25 Speed.,,,,0B6oyUfwoM3u1emJzNWVmczIyM0k,1kC4QhUSeRPPsJJr9ZQg8areD0dsCtXP1,1gktzve8lYwZ_NBbjiYvsjG58u2FzXest,"Patrick Gagne, Etienne St.Laurent",
-Gear Grind,ZOTH,Rare,42,1,5,,,,,Flip all face-up Battlegear face-down.,,,,0B6oyUfwoM3u1Q0YtcGtYQ1hHenM,1d-IflDOAfqM3i09RZMsrAsNpvNpeXJmN,1UeELfJ_lJH_nwVVE_8ImpeQ-l6HnrTJb,Imaginary Friends Studios,Dagger
-Granite Balls,ZOTH,Rare,43,2,5,,,5,,"If your engaged Creature is a Warrior, deal 10 damage unless the opposing engaged Creature pays a Mugic counter.",,,,0B6oyUfwoM3u1Vy1mZHlIWGtucTg,1yjL4jjaNu7tP-JCBzfdi3ZZx1t8dG4e4,1NAiwt_m8xQOUiJzOXlwpgIZ6R8i-D5M4,Imaginary Friends Studios,
-Hive-phoon,ZOTH,Common,44,1,0,,5,,5,"If your engaged Creature is Danian, it gains Earth.",,,,0B6oyUfwoM3u1TlFDdk5HTE5JdEk,1lkK-KXZ_uwnK1jz7VamWkKnxvJMsZKeX,1wWSOGwwwyfvmH7Vc_vPGwTLnIiw8PwRO,"Gus Vazquez, Emilio Lopez",hive phoon hivephoon
-Infight,ZOTH,Super Rare,45,4,20,,,,,"If opposing engaged Creature is Danian, Activate Hive. Hive may not be Deactivated.",,,,0B6oyUfwoM3u1X2l5S3ZfM0ZwUWc,19Q7plDYphgqz0DVhacKu2D_zJ1rv7mEl,1jB3sOwxHWesqNhvqRuAPw1cjWOJbmlj-,"Emilio Lopez, Khary Randolph",Dagger
-Malevolent Blast,ZOTH,Uncommon,46,0,0,,0,,,"Air: Your engaged Creature loses Air. Discard an Attack Card, then draw an Attack Card.",,,,0B6oyUfwoM3u1VlNtcWtHMFNFOWs,1F0QEQWBucmIzar-ASRZ7Pk4nuoBIQzCa,1zWkXBn7ebfg95e-LYE3w7eqr3ANs6lKt,Imaginary Friends Studios,
-Mandiblor Might,ZOTH,Super Rare,47,1,0,,,,,Deal 5 damage for each Mandiblor you control adjacent to your engaged Creature.,,,,0B6oyUfwoM3u1cWJ5WWJXWFRBVGc,12Xp7A0UJC7Xk55yMAhvKQRLTcsoRGmwp,1S0O0j_MvU4wFzazwmUCAn_lCQbvzSsco,"Khary Randolph, David Curiel",Dagger
+Water: Uninfect all engaged Creatures. Those Creatures cannot be Infected.",,,"Gus Vazquez, Etienne St.Laurent"
+Danihilation,ZOTH,Uncommon,38,2,5,5,,,,"If the opposing engaged Creature is Danian, deal 10 damage.",,,"Chris Dibari, David Curiel"
+Desiccate the Land,ZOTH,Uncommon,39,2,5,,5,0,5,"Earth: If an Attack Card named Desiccate the Land is in your Attack Discard pile, heal 10 damage.",,,"Chris Dibari, Anthony Washington"
+Elementalist's Psy-Blast,ZOTH,Uncommon,40,1,0,,,,,Stat Check Wisdom 50: Deal 5 damage for each Elemental Type your engaged Creature has.,,,Emilio Lopez
+Freeze Flash,ZOTH,Common,41,2,0,,10,10,0,Water: Opposing engaged Creature loses 25 Speed.,,,"Patrick Gagne, Etienne St.Laurent"
+Gear Grind,ZOTH,Rare,42,1,5,,,,,Flip all face-up Battlegear face-down.,,,Imaginary Friends Studios
+Granite Balls,ZOTH,Rare,43,2,5,,,5,,"If your engaged Creature is a Warrior, deal 10 damage unless the opposing engaged Creature pays a Mugic counter.",,,Imaginary Friends Studios
+Hive-phoon,ZOTH,Common,44,1,0,,5,,5,"If your engaged Creature is Danian, it gains Earth.",,,"Gus Vazquez, Emilio Lopez"
+Infight,ZOTH,Super Rare,45,4,20,,,,,"If opposing engaged Creature is Danian, Activate Hive. Hive may not be Deactivated.",,,"Emilio Lopez, Khary Randolph"
+Malevolent Blast,ZOTH,Uncommon,46,0,0,,0,,,"Air: Your engaged Creature loses Air. Discard an Attack Card, then draw an Attack Card.",,,Imaginary Friends Studios
+Mandiblor Might,ZOTH,Super Rare,47,1,0,,,,,Deal 5 damage for each Mandiblor you control adjacent to your engaged Creature.,,,"Khary Randolph, David Curiel"
 Muge's Edge,ZOTH,Rare,48,0,0,,,,,"Your engaged Creature gains 10 Courage, Power, Wisdom and Speed.
-If your engaged Creature is a Muge, deal 10 damage.",,,,0B6oyUfwoM3u1SVA0Y2ZMbFVyRjA,1qGV4jX7-qV97Nn0p44SK6maREjXi38J9,1Ua6QkobKmX0yEYbS_-bvhWkFwg8GuX6H,"Khary Randolph, Etienne St.Laurent",Dagger
-Mugician Steal,ZOTH,Super Rare,49,0,0,,,,0,"Water: Your engaged Creature loses Water. Remove a Mugic counter from the opposing engaged Creature. If you do, put a Mugic counter on your engaged Creature.",,,,0B6oyUfwoM3u1NEp4Y3k2N0dQMkU,1HqKmtttfhVbHXeYLoissMx8wDia25O-j,1zeC2_clhcUpGcYoATvblWfZVFTAgSyK3,"Andrew Bradshaw, Etienne St.Laurent",
-Pillar Quake,ZOTH,Rare,50,1,5,,,5,,"If opposing engaged Creature is Danian, damage dealt by Pillar Quake is reduced to 0.",,,,0B6oyUfwoM3u1OWY4NlZyalpLTW8,1fvOSbO3JRuPstqx5HwYz0EsYYBKKFb5z,1s0id5ewv0jFOsTG3_WVQj-37hM2Qdz5b,"Chris Dibari, David Curiel",
-Reverberate,ZOTH,Common,51,0,0,,,,,"If an Attack Card named Reverberate is in your Attack Discard pile, deal 10 damage.",,,,0B6oyUfwoM3u1S3o5cEZXZ2tFbmM,1_tVl6LKz8M5BWmeOfQldftJuBLjuDIfz,1YGJQlA2lYtlkvMMucJh4ASB0nLoJoD2J,Emilio Lopez,Dagger
+If your engaged Creature is a Muge, deal 10 damage.",,,"Khary Randolph, Etienne St.Laurent"
+Mugician Steal,ZOTH,Super Rare,49,0,0,,,,0,"Water: Your engaged Creature loses Water. Remove a Mugic counter from the opposing engaged Creature. If you do, put a Mugic counter on your engaged Creature.",,,"Andrew Bradshaw, Etienne St.Laurent"
+Pillar Quake,ZOTH,Rare,50,1,5,,,5,,"If opposing engaged Creature is Danian, damage dealt by Pillar Quake is reduced to 0.",,,"Chris Dibari, David Curiel"
+Reverberate,ZOTH,Common,51,0,0,,,,,"If an Attack Card named Reverberate is in your Attack Discard pile, deal 10 damage.",,,Emilio Lopez
 Scout's Strike,ZOTH,Common,52,2,5,,,,,"Stat Check Speed 50: Deal 10 damage.
-If your engaged Creature is a Scout, look at opposing player's Attack and Mugic hands.",,,,0B6oyUfwoM3u1ZFBMcVp6ajU3QjQ,1obEnvjnkDtaF4m3GegdLcurb-K8OkZ_7,1vBw9KTr1vCMUGfDGRx-_ixzEkyjveuBc,"Patrick Gange, Etienne St.Laurent",
-Strike of the Meek,ZOTH,Ultra Rare,53,5,0,,,,,"If your engaged Creature has 30 or less Scanned Energy, deal 50 damage.",,,,0B6oyUfwoM3u1TjhqNGQ1X0RiaE0,1KkIhS0ex1XakyaERDQM5d6kWVitW2qv9,10dfRn443sdwrRnwmjGOr-0iJLiwHDp8y,"Chris Dibari, Etienne St.Laurent",Dagger
-Sunder Ground,ZOTH,Uncommon,54,0,0,,,10,,Earth: Your engaged Creature loses Earth.,,,,0B6oyUfwoM3u1Mk16VnpZTnhxa0U,1P5APrZz2f_KeHPz2n0ym_zKhZ5OG2qX7,1BN-m7wLoDtvQzrXsUoEK3CdbgnilOmy1,"Khary Randolph, Etienne St.Laurent, Edwin Nebres",
-Terraport,ZOTH,Rare,55,3,5,,,5,,Earth: Your engaged Creature loses Earth. Look at the top two cards of your Location Deck and choose one. It becomes the active Location.,,,,0B6oyUfwoM3u1aTREdGV5S0JBMUE,1YkXjE3bNLzm0J7x3Ddn37JCXwgsBFN55,1QUmPxHsHAiWENfysR21Q4WYqz-qHPmVk,Steve Ellis,
-Apoc-eclipse,SS,Ultra Rare,36,3,0,5,5,5,5,"Fire, Air, Earth, Water: Flip the opposing engaged Creature's Battlegear face‐down, draw an Attack Card, discard an Attack Card, deal 5 damage and gain 5 Energy.",,1,,0B6oyUfwoM3u1QnBiMlNsdVBWa3c,1PSB2pB1Zh026rVNxaDrI1STk_bujjcYP,,Imaginary Friends Studios,apoc eclipse apoceclipse
-Arborsmash,SS,Common,37,1,5,,,,,Stat Check Courage 50: Your engaged Creature gains Earth.,,,,0B6oyUfwoM3u1Qkg2YWM1ZjhkY2s,1zjUpJnDWCkTaxjJBUN_KTAd8KXSAWY--,,Imaginary Friends Studios,
-Blaze Barrage,SS,Super Rare,38,1,0,0,5,,5,"Fire, Air: Draw an Attack Card, then discard an Attack Card.",,,,0B6oyUfwoM3u1a0U5NjdBZGs4M2s,1zKJZjBDtClsRmIwBbibQKEPTaGaf9xNZ,,Imaginary Friends Studios,
-Blind Fury,SS,Uncommon,39,1,0,,10,,,"If your engaged Creature has Recklessness, deal 5 damage.",,,,0B6oyUfwoM3u1dTVfZ2ZHNDMzUkk,1DaTp-LTZk8--w4UHFfXPpo0ZyKCQc8pd,,Emilio Lopez,
-Cyclone Slam,SS,Super Rare,40,3,0,,5,5,,"If your engaged Creature is a Warbeast, deal 20 damage.",,,,0B6oyUfwoM3u1Z3ZlVnlBQVlzZ0U,1LI59-IXyRGB0mbEAEMM59xxJfL4DPYAg,,Imaginary Friends Studios,
-Dexterous Storm,SS,Common,41,1,5,,,,,Stat Check Speed 50: Your engaged Creature gains Air.,,,,0B6oyUfwoM3u1a3phT3NMVm9rOVk,1rYwZWpKqYeIvDaXeSW65T-jMp-ayOMuv,,Imaginary Friends Studios,
-Elemental Oxidation,SS,Super Rare,42,1,,5,,0,5,"Fire, Earth: Flip all Battlegear equipped to the opposing engaged Creature face-down.",,,,0B6oyUfwoM3u1RHgydllNQUJhZlk,16J-_hVeGFD5tj6qB98I-6fkMij_-kvmF,,Imaginary Friends Studios,
+If your engaged Creature is a Scout, look at opposing player's Attack and Mugic hands.",,,"Patrick Gange, Etienne St.Laurent"
+Strike of the Meek,ZOTH,Ultra Rare,53,5,0,,,,,"If your engaged Creature has 30 or less Scanned Energy, deal 50 damage.",,,"Chris Dibari, Etienne St.Laurent"
+Sunder Ground,ZOTH,Uncommon,54,0,0,,,10,,Earth: Your engaged Creature loses Earth.,,,"Khary Randolph, Etienne St.Laurent, Edwin Nebres"
+Terraport,ZOTH,Rare,55,3,5,,,5,,Earth: Your engaged Creature loses Earth. Look at the top two cards of your Location Deck and choose one. It becomes the active Location.,,,Steve Ellis
+Apoc-eclipse,SS,Ultra Rare,36,3,0,5,5,5,5,"Fire, Air, Earth, Water: Flip the opposing engaged Creature's Battlegear face‐down, draw an Attack Card, discard an Attack Card, deal 5 damage and gain 5 Energy.",,1,Imaginary Friends Studios
+Arborsmash,SS,Common,37,1,5,,,,,Stat Check Courage 50: Your engaged Creature gains Earth.,,,Imaginary Friends Studios
+Blaze Barrage,SS,Super Rare,38,1,0,0,5,,5,"Fire, Air: Draw an Attack Card, then discard an Attack Card.",,,Imaginary Friends Studios
+Blind Fury,SS,Uncommon,39,1,0,,10,,,"If your engaged Creature has Recklessness, deal 5 damage.",,,Emilio Lopez
+Cyclone Slam,SS,Super Rare,40,3,0,,5,5,,"If your engaged Creature is a Warbeast, deal 20 damage.",,,Imaginary Friends Studios
+Dexterous Storm,SS,Common,41,1,5,,,,,Stat Check Speed 50: Your engaged Creature gains Air.,,,Imaginary Friends Studios
+Elemental Oxidation,SS,Super Rare,42,1,,5,,0,5,"Fire, Earth: Flip all Battlegear equipped to the opposing engaged Creature face-down.",,,Imaginary Friends Studios
 Enlightened Tenacity,SS,Common,43,2,0,,,5,,"Stat Check Courage 30: Deal 5 damage.
 Stat Check Courage 50: Deal 5 damage.
-Stat Check Courage 70: Deal 5 damage.",,,,0B6oyUfwoM3u1QjVYQUNXM2ExRkU,1GIR2sB3T6HA2MP92TPbtthlKDRE8Mkti,,Imaginary Friends Studios,
-Fear Fight,SS,Uncommon,44,2,5,,,5,,Stat Fail Courage 50: Deal 10 damage.,,,,0B6oyUfwoM3u1M0szTnpYOG4zd3M,18eA3AWnnuUsqf2yc6-JRZ_EHcX6JGQgt,,Imaginary Friends Studios,
+Stat Check Courage 70: Deal 5 damage.",,,Imaginary Friends Studios
+Fear Fight,SS,Uncommon,44,2,5,,,5,,Stat Fail Courage 50: Deal 10 damage.,,,Imaginary Friends Studios
 Force Strike,SS,Common,45,2,0,5,,,,"Stat Check Power 30: Deal 5 damage.
 Stat Check Power 50: Deal 5 damage.
-Stat Check Power 70: Deal 5 damage.",,,,0B6oyUfwoM3u1V0dob1BhdHQ1R1k,1A-wLoAmAoJZ_FrsKlcH5Kd25yN2Yb0fD,,Imaginary Friends Studios,
-Hampering Winds,SS,Uncommon,46,2,5,,5,,,Stat Fail Speed 50: Deal 10 damage.,,,,0B6oyUfwoM3u1Z1lUUmV0S1hSV1k,18iA2p4QdYiZlUs4R5f-JqE1BFyskJXS0,,Imaginary Friends Studios,
-Harnessed Rage,SS,Rare,47,3,5,,,,,"If your engaged Creature has Recklessness, deal damage equal to its Recklessness value.",,,,0B6oyUfwoM3u1bjV0WkdQNGNQYlk,1ZI8yXviOXWmQAk4nyt9ACCYwdnIZ_vTl,1gLKYVqBhVCWKUHsCOvlub3fNRedcDAMX,Emilio Lopez,Dagger
-Heptagon Hail,SS,Ultra Rare,48,4,35,,,,,Each Creature controlled by an opponent gains a Mugic counter.,,,,0B6oyUfwoM3u1a001NDhNUUhTRWs,1pIx5ZeIL12k5e4AyZS49BGSJT_q9wp1I,,Imaginary Friends Studios,Dagger
-Hurlicane,SS,Rare,49,0,0,,10,,,Air: Your engaged Creature loses Air.,,,,0B6oyUfwoM3u1T0JoZDJraEdVTVU,12yEG4Z6IIdawAlHpTzDuslHANRCb2Rua,,Imaginary Friends Studios,
-Hydro Balls,SS,Common,50,1,5,,,,,Stat Check Wisdom 50: Your engaged Creature gains Water.,,,,0B6oyUfwoM3u1RzlEall4M2dJRXM,1V0gUouLEoW_wdAtF_uilfC_3xlseG_gB,1StbdyvClxlseP7dZjsajE3DqERViKW89,Emilio Lopez,
-Liquescent Swirl,SS,Rare,51,0,0,,,,10,Water: Your engaged Creature loses Water.,,,,0B6oyUfwoM3u1aUFCSmdMa2RQZFU,1H4uFTK1gMjorpoPuClOrtqgYKvwvcSJn,,Imaginary Friends Studios,
-Matagore,SS,Uncommon,52,1,0,5,,5,,"If your engaged Creature is Mipedian, it gains Air.",,,,0B6oyUfwoM3u1RGtYd2RFaXp5RjA,1a0mit3--N0UNv5Y-6ZmIWBa9wSIpmuIX,,Imaginary Friends Studios,
+Stat Check Power 70: Deal 5 damage.",,,Imaginary Friends Studios
+Hampering Winds,SS,Uncommon,46,2,5,,5,,,Stat Fail Speed 50: Deal 10 damage.,,,Imaginary Friends Studios
+Harnessed Rage,SS,Rare,47,3,5,,,,,"If your engaged Creature has Recklessness, deal damage equal to its Recklessness value.",,,Emilio Lopez
+Heptagon Hail,SS,Ultra Rare,48,4,35,,,,,Each Creature controlled by an opponent gains a Mugic counter.,,,Imaginary Friends Studios
+Hurlicane,SS,Rare,49,0,0,,10,,,Air: Your engaged Creature loses Air.,,,Imaginary Friends Studios
+Hydro Balls,SS,Common,50,1,5,,,,,Stat Check Wisdom 50: Your engaged Creature gains Water.,,,Emilio Lopez
+Liquescent Swirl,SS,Rare,51,0,0,,,,10,Water: Your engaged Creature loses Water.,,,Imaginary Friends Studios
+Matagore,SS,Uncommon,52,1,0,5,,5,,"If your engaged Creature is Mipedian, it gains Air.",,,Imaginary Friends Studios
 Mind Strike,SS,Common,53,2,0,,,,5,"Stat Check Wisdom 30: Deal 5 damage.
 Stat Check Wisdom 50: Deal 5 damage.
-Stat Check Wisdom 70: Deal 5 damage.",,,,0B6oyUfwoM3u1aENkV1l2ZF9SNGs,1MDW_jfIxgPBmQqClZwe5v8ZZpXknNJdq,,Imaginary Friends Studios,
+Stat Check Wisdom 70: Deal 5 damage.",,,Imaginary Friends Studios
 Progressive Speed,SS,Common,54,2,0,,5,,,"Stat Check Speed 30: Deal 5 damage.
 Stat Check Speed 50: Deal 5 damage.
-Stat Check Speed 70: Deal 5 damage.",,,,0B6oyUfwoM3u1REFhcnE2X0U5MDA,1lCUhLoZKtTcxVdEslDQehkIfjKPo9haa,,Imaginary Friends Studios,
-Purifying Mud,SS,Super Rare,55,1,0,5,,5,0,"Earth, Water: Deal 5 damage, then gain 5 Energy.",,,,0B6oyUfwoM3u1X1VHUUluNUFMN0k,1_Tu_iV5nQhQkwtvBRDhzm0MOJZogvHk6,,"Emilio Lopez, Keith Conroy",
+Stat Check Speed 70: Deal 5 damage.",,,Imaginary Friends Studios
+Purifying Mud,SS,Super Rare,55,1,0,5,,5,0,"Earth, Water: Deal 5 damage, then gain 5 Energy.",,,"Emilio Lopez, Keith Conroy"
 Reactive Resolution,SS,Rare,56,3,10,,,,,"Challenge Courage 15: Deal 5 damage.
 Challenge Speed 15: Deal 5 damage.
-If you win both challenges, deal 15 damage.",,,,0B6oyUfwoM3u1MXlxRjN4aWIwR1U,1d9ZhkOEFDo95uFvbHtQdUjOuRcKmRv3w,,Imaginary Friends Studios,
-Reckless Defeat,SS,Uncommon,57,1,0,5,,,5,"If the opposing engaged Creature has Recklessness, deal damage equal to that Creature's Recklessness value.",,,,0B6oyUfwoM3u1OFNnQ0QyMFUyZXc,1lWtLrgV8R8_vlGtAnadGgSHNUsDjEx4i,,Emilio Lopez,
-Reckless Reproach,SS,Rare,58,0,0,,,,,"If the opposing engaged Creature has Recklessness, deal damage equal to that Creature's Recklessness value.",,,,0B6oyUfwoM3u1aWd3SHA4LUFQQ2s,1Q2ptbFDLvpS92FkSsfD0JzLSvtSJfyw-,,Imaginary Friends Studios,Dagger
+If you win both challenges, deal 15 damage.",,,Imaginary Friends Studios
+Reckless Defeat,SS,Uncommon,57,1,0,5,,,5,"If the opposing engaged Creature has Recklessness, deal damage equal to that Creature's Recklessness value.",,,Emilio Lopez
+Reckless Reproach,SS,Rare,58,0,0,,,,,"If the opposing engaged Creature has Recklessness, deal damage equal to that Creature's Recklessness value.",,,Imaginary Friends Studios
 Rot Cloud,SS,Rare,59,3,10,,,,,"If the opposing engaged Creature has Air, deal 5 damage. 
-If the opposing engaged Creature has Earth, deal 5 damage.",,,,0B6oyUfwoM3u1QV8xd1ZTTTU1Tm8,1kX2Qs2J9R2R6fwCRiWqW1JBjDrDtcPPH,,Imaginary Friends Studios,Dagger
-Slashclaw,SS,Super Rare,60,5,5,,,,,"If your engaged Creature has Recklessness, deal damage equal to twice its Recklessness value.",,,,0B6oyUfwoM3u1MXozV1d2aVV5ajA,1VELQfT2ihxAi8dnpfxrcWWrYjx1LJm09,,Emilio Lopez,Dagger
-Stupefying Tide,SS,Uncommon,61,2,5,,,,5,Stat Fail Wisdom 50: Deal 10 damage.,,,,0B6oyUfwoM3u1WjVsaUtVVjF2THc,14yNmWIRzFYhojD2R4C12RCX8ucL-W5ok,,Imaginary Friends Studios,
-Symmetry Slam,SS,Rare,62,0,0,,,,,Deal 5 damage for each Elemental Type shared by both engaged Creatures.,,,,0B6oyUfwoM3u1MmFyaVUtX29fd1E,1efw4rFFLYPVafilQam3lSM5yU_GBqFoI,,Imaginary Friends Studios,Dagger
-Trampling Tackle,SS,Uncommon,63,1,0,,,10,,"If your engaged Creature has Recklessness, deal 5 damage.",,,,0B6oyUfwoM3u1czhvTHB4VEdkWEk,1zNZYE54pHlnfHEJUqS9krp4MLvfjKxFo,,Imaginary Friends Studios,
-Twister of Elements,SS,Super Rare,64,1,0,,5,5,0,"Air, Water: Search your Attack Deck for up to three Attack Cards and put them in your Attack Discard pile, then shuffle your Attack Deck.",,,,0B6oyUfwoM3u1UjNPYWl4T1VnQUE,1ZA0ciM1qATCdY9KEWWT5nySzxPptTVOW,,Imaginary Friends Studios,
-Web Cocoon,SS,Common,65,1,5,,,,,Stat Check Power 50: Your engaged Creature gains Fire.,,,,0B6oyUfwoM3u1QXJUa3lnOEtid0U,10aVhvNTkP2cvVTTVcPf-cZJniFpQW2SS,,Imaginary Friends Studios,
-Ash Torrent,MI,Uncommon,67,1,,5,,5,,Challenge Power 15: Deal 10 damage.,,,Starter,0B6oyUfwoM3u1azlZOVNSbjRGekk,1yhZ6AtYYlevx70A9tHMELlWt9zkpm6lx,,"Andrew Bradshaw, Etienne St.Laurent",
-Burning Rain,MI,Super Rare,68,0,0,,,,5,"If Burning Rain would deal more than 10 damage, it deals 10 damage instead.",,,,0B6oyUfwoM3u1VWFDSmxDWDZROTg,1eikh538Bh7xVIF10AzjY4L1PvOrJs6XG,,"Edwin Nebres, Andrew Bradshaw, David Curiel",
-Confusion,MI,Common,69,1,0,5,5,,,Air: Gain 10 Power.,,,,0B6oyUfwoM3u1eHJkeHJfMlRVa00,1L_CJdxfov_kP_jdYQbYU6-SSCx2BDawn,,"Edwin Nebres, Andrew Bradshaw, David Curiel",
+If the opposing engaged Creature has Earth, deal 5 damage.",,,Imaginary Friends Studios
+Slashclaw,SS,Super Rare,60,5,5,,,,,"If your engaged Creature has Recklessness, deal damage equal to twice its Recklessness value.",,,Emilio Lopez
+Stupefying Tide,SS,Uncommon,61,2,5,,,,5,Stat Fail Wisdom 50: Deal 10 damage.,,,Imaginary Friends Studios
+Symmetry Slam,SS,Rare,62,0,0,,,,,Deal 5 damage for each Elemental Type shared by both engaged Creatures.,,,Imaginary Friends Studios
+Trampling Tackle,SS,Uncommon,63,1,0,,,10,,"If your engaged Creature has Recklessness, deal 5 damage.",,,Imaginary Friends Studios
+Twister of Elements,SS,Super Rare,64,1,0,,5,5,0,"Air, Water: Search your Attack Deck for up to three Attack Cards and put them in your Attack Discard pile, then shuffle your Attack Deck.",,,Imaginary Friends Studios
+Web Cocoon,SS,Common,65,1,5,,,,,Stat Check Power 50: Your engaged Creature gains Fire.,,,Imaginary Friends Studios
+Ash Torrent,MI,Uncommon,67,1,,5,,5,,Challenge Power 15: Deal 10 damage.,,,"Andrew Bradshaw, Etienne St.Laurent"
+Burning Rain,MI,Super Rare,68,0,0,,,,5,"If Burning Rain would deal more than 10 damage, it deals 10 damage instead.",,,"Edwin Nebres, Andrew Bradshaw, David Curiel"
+Confusion,MI,Common,69,1,0,5,5,,,Air: Gain 10 Power.,,,"Edwin Nebres, Andrew Bradshaw, David Curiel"
 Daunting Bravery,MI,Uncommon,70,1,5,,,,,"Challenge Courage 15: Deal 10 damage.
-Stat Check Courage 50: Opposing engaged Creature loses 15 Courage.",,,,0B6oyUfwoM3u1UVU2WHpVcGlJdlk,1PJkGjnEpp0qStTdaz-H_hbgWtq_nu9_R,,"Edwin Nebres, Andrew Bradshaw, David Curiel",
+Stat Check Courage 50: Opposing engaged Creature loses 15 Courage.",,,"Edwin Nebres, Andrew Bradshaw, David Curiel"
 Deceleration,MI,Uncommon,71,2,0,,,,,"Stat Fail Speed 100: Deal 5 damage.
 Stat Fail Speed 50: Deal 10 damage.
-Stat Fail Speed 5: Deal 15 damage.",,,,0B6oyUfwoM3u1SUF4al9xM1JtZVU,1WkpUjxFSSyQYxjFNXqqCJNHaWYxMOyWs,,Imaginary Friends Studios,
-Delerium,MI,Common,72,0,0,,,,,Stat Check Wisdom 50: Deal 5 damage.,,,Starter,0B6oyUfwoM3u1X3hCb2k0cUNiajg,110PHZ0RJwCA8K8tyae0Hg0-vlPHalOl8,,"Andrew Bradshaw, Etienne St.Laurent",
-Deluge of Doom,MI,Common,73,2,0,,,10,10,Water: Opposing engaged Creature loses 25 Courage.,,,,0B6oyUfwoM3u1OXRZY1RvRjI3RlE,1BdWeUmQHNypnGETIS0G7Reu43Zu4vZ0s,,Imaginary Friends Studios,
+Stat Fail Speed 5: Deal 15 damage.",,,Imaginary Friends Studios
+Delerium,MI,Common,72,0,0,,,,,Stat Check Wisdom 50: Deal 5 damage.,,,"Andrew Bradshaw, Etienne St.Laurent"
+Deluge of Doom,MI,Common,73,2,0,,,10,10,Water: Opposing engaged Creature loses 25 Courage.,,,Imaginary Friends Studios
 Disempowerment Combo,MI,Super Rare,74,4,5,,,,5,"Stat Fail Courage 30: Deal 10 damage.
 Stat Fail Power 30: Deal 10 damage.
 Stat Fail Wisdom 30: Deal 10 damage.
-Stat Fail Speed 30: Deal 10 damage.",,,Starter,0B6oyUfwoM3u1RVFiamJKRE9JbVk,1ZlYexi1wnQhecxbZxv3uqQY-Jao-9kjg,,HotShots VFX,
+Stat Fail Speed 30: Deal 10 damage.",,,HotShots VFX
 Dry Liquid,MI,Uncommon,75,1,5,,,,,"Challenge Power 15: Deal 10 damage.
-Stat Check Power 50: Opposing engaged Creature loses 15 Power.",,,,0B6oyUfwoM3u1b2N1SWlSc1RNakU,1SiYpcOTxVGH2qz8qhmgh8G7iqBdj-I7C,,Imaginary Friends Studios,
+Stat Check Power 50: Opposing engaged Creature loses 15 Power.",,,Imaginary Friends Studios
 Electro-Web,MI,Uncommon,76,2,5,,,,0,"Challenge Power 30: Deal 10 damage. If you lose this Challenge, gain 15 Power.
-Challenge Speed 30: Deal 10 damage. If you lose this Challenge, gain 15 Speed.",,,,0B6oyUfwoM3u1RGZrR3pjaGV5X3M,1IQltHjuAZTrulKtzj5UKgo3Crs6R7ra0,,HotShots VFX,electro web electroweb
-Ember Swarm,MI,Uncommon,77,1,5,5,,,,Fire: Opposing engaged Creature loses 25 Wisdom.,This should make you glow with joy.,,Starter,0B6oyUfwoM3u1UVlOMDluNDFaZjg,1F4GgzbpjV_ue2QMJI-1NcIDPapxMuCaQ,,"Etienne St.Laurent, Edwin Nebres",
-Fear Projection,MI,Common,78,0,0,,,,,Opposing engaged Creature loses 20 Courage.,,,,0B6oyUfwoM3u1WVRicU5CXzREMGM,1d-zh78veI6-Mhl3OIIRs40ml0UXEHsNP,,Imaginary Friends Studios,Dagger
-Flaming Coals,MI,Rare,79,3,10,10,,,10,Flaming Coals may not be the target of Mugic or abilities.,,,,0B6oyUfwoM3u1R3RSNXNiSlNlSkk,1Q4rf7zDCFHxbz-ZA1necH_yYc2l--3iv,,HotShots VFX,
-Flashwarp,MI,Common,80,0,0,,,,,Challenge Power 15: Deal 10 damage.,,,Starter,0B6oyUfwoM3u1ajhsM3hfbGo2ckE,1gmwFLgbTNIITFu1ZDcVrSH7YbwPoknPs,,Emilio Lopez,
+Challenge Speed 30: Deal 10 damage. If you lose this Challenge, gain 15 Speed.",,,HotShots VFX
+Ember Swarm,MI,Uncommon,77,1,5,5,,,,Fire: Opposing engaged Creature loses 25 Wisdom.,This should make you glow with joy.,,"Etienne St.Laurent, Edwin Nebres"
+Fear Projection,MI,Common,78,0,0,,,,,Opposing engaged Creature loses 20 Courage.,,,Imaginary Friends Studios
+Flaming Coals,MI,Rare,79,3,10,10,,,10,Flaming Coals may not be the target of Mugic or abilities.,,,HotShots VFX
+Flashwarp,MI,Common,80,0,0,,,,,Challenge Power 15: Deal 10 damage.,,,Emilio Lopez
 Ghost Gouge,MI,Uncommon,81,1,0,,,,5,"Stat Check Wisdom 50: Deal 5 damage.
-Stat Check Speed 50: Deal 5 damage.",,,,0B6oyUfwoM3u1YmtZWWNWbTh6dXc,1LIZVQ2qCXnQI5idQvyI3IpAqNqO8MrPP,,HotShots VFX,
+Stat Check Speed 50: Deal 5 damage.",,,HotShots VFX
 Gravity Slam,MI,Uncommon,82,2,0,,,,,"Stat Fail Power 100: Deal 5 damage.
 Stat Fail Power 50: Deal 10 damage.
-Stat Fail Power 5: Deal 15 damage.",,,,0B6oyUfwoM3u1Rl9NQlZYTm5CUVU,1qERg7r7n86-7GT1qUGPRhZoLkUh9YjSA,,Imaginary Friends Studios,
+Stat Fail Power 5: Deal 15 damage.",,,Imaginary Friends Studios
 Hammer Dash,MI,Uncommon,83,1,0,,5,,,"Stat Check Courage 50: Deal 5 damage.
-Stat Check Power 50: Deal 5 damage.",,,,0B6oyUfwoM3u1d1ZRYmprRktabWs,1uiBLlKkXmDG-3csBIEnbtLVHBg5MNiHR,,HotShots VFX,
-Hampering Winds,MI,Uncommon,84,2,5,,5,,,Stat Fail Speed 50: Deal 10 damage.,,,Starter,0B6oyUfwoM3u1YkJCcTRKSmlNcUU,14WQrwzE9JXeCdRiKCTEBRo7xSHMcJkzW,,Imaginary Friends Studios,
-Heat Rage,MI,Common,85,1,0,5,,,5,Fire: Gain 10 Wisdom.,,,,0B6oyUfwoM3u1UnRFcmxCS0JnbGM,1UYQow3zHzZ6FmWgFXi2Uh-l6orFtgQfG,,HotShots VFX,
-Ice Disks,MI,Rare,86,3,10,,,10,10,Your opponent may not play activated abilities.,,,,0B6oyUfwoM3u1dzlJR1c1eHdyVnM,1VmSKSzO0J3FKdaZU0ry1ILd7MTF4--jv,,HotShots VFX,
-Ice Sheet,MI,Super Rare,87,3,0,,,,5,Water: Deal an additional 5 damage for each Mugic counter on your engaged Creature.,,,,0B6oyUfwoM3u1VFBzQTRYaEk3eGs,1-gcb4oZ98nLBESg-FIHN0fm0MxTj4MXA,,Imaginary Friends Studios,
-Lightning Burst,MI,Uncommon,88,1,5,,5,,,Air: Opposing engaged Creature loses 25 Power.,,,Starter,0B6oyUfwoM3u1QjJaM25yU0ExQnM,1Q0w0L7IQStcktp7AaIi9tS_FFtWtaXN8,,"David Rodriguez, Edwin Nebres, Etienne St.Laurent",
+Stat Check Power 50: Deal 5 damage.",,,HotShots VFX
+Hampering Winds,MI,Uncommon,84,2,5,,5,,,Stat Fail Speed 50: Deal 10 damage.,,,Imaginary Friends Studios
+Heat Rage,MI,Common,85,1,0,5,,,5,Fire: Gain 10 Wisdom.,,,HotShots VFX
+Ice Disks,MI,Rare,86,3,10,,,10,10,Your opponent may not play activated abilities.,,,HotShots VFX
+Ice Sheet,MI,Super Rare,87,3,0,,,,5,Water: Deal an additional 5 damage for each Mugic counter on your engaged Creature.,,,Imaginary Friends Studios
+Lightning Burst,MI,Uncommon,88,1,5,,5,,,Air: Opposing engaged Creature loses 25 Power.,,,"David Rodriguez, Edwin Nebres, Etienne St.Laurent"
 Mind Grind,MI,Uncommon,89,2,0,,,,,"Stat Fail Wisdom 100: Deal 5 damage.
 Stat Fail Wisdom 50: Deal 10 damage.
-Stat Fail Wisdom 5: Deal 15 damage.",,,,0B6oyUfwoM3u1Znk2Y2xmb0E5WVk,1ZaS923HkoRAL5aB1RYnJMJgkq_-59Pto,,Imaginary Friends Studios,
-Mindful Finish,MI,Super Rare,90,0,0,,,,,"Stat Fail Courage, Power, Wisdom and Speed 20: Deal 25 damage.",,1,Starter,0B6oyUfwoM3u1WHphVVRJUjdkRzA,16_c57DVPXPUf5_f8pUTT4aaLhcPeGN6j,,HotShots VFX,
-Mindsink,MI,Common,91,0,0,,,,,Opposing engaged Creature loses 20 Wisdom.,,,,0B6oyUfwoM3u1YVhJZUFSODhLRGs,1abmM6gBK6uuloR829WeoRE8yx0dIVuY3,,Imaginary Friends Studios,Dagger
-Minor Roar,MI,Super Rare,92,4,5,5,5,5,5,Deal an additional 5 damage for each Mugic counter on your engaged Creature.,,,,0B6oyUfwoM3u1ZUZXbUlESHh4UFk,1hvoFkWHBCz2hxVGlw7Oj2qXG0f--d27K,,Imaginary Friends Studios,
-Neuro Freeze,MI,Super Rare,93,2,10,,,,10,"If the opposing engaged Creature has Water, the damage dealt by Neuro Freeze is reduced by 10.",,,,0B6oyUfwoM3u1bUpyNTRjOHNSRDA,1MuOz-Ea0nPH5EYL7a8ZiuF2jj8iftxeW,,Imaginary Friends Studios,
-Outsmart,MI,Rare,94,0,0,,,,,"If your Creature's Wisdom is more than opposing engaged Creature's Speed, deal 5 damage. If it isn't, opposing engaged Creature loses 10 Wisdom.",,,,0B6oyUfwoM3u1bXRDM3JHUXlVQjg,1ytir7Wx2lt69Eu77uqq4zDKLvCxwqLN_,,HotShots VFX,Dagger
+Stat Fail Wisdom 5: Deal 15 damage.",,,Imaginary Friends Studios
+Mindful Finish,MI,Super Rare,90,0,0,,,,,"Stat Fail Courage, Power, Wisdom and Speed 20: Deal 25 damage.",,1,HotShots VFX
+Mindsink,MI,Common,91,0,0,,,,,Opposing engaged Creature loses 20 Wisdom.,,,Imaginary Friends Studios
+Minor Roar,MI,Super Rare,92,4,5,5,5,5,5,Deal an additional 5 damage for each Mugic counter on your engaged Creature.,,,Imaginary Friends Studios
+Neuro Freeze,MI,Super Rare,93,2,10,,,,10,"If the opposing engaged Creature has Water, the damage dealt by Neuro Freeze is reduced by 10.",,,Imaginary Friends Studios
+Outsmart,MI,Rare,94,0,0,,,,,"If your Creature's Wisdom is more than opposing engaged Creature's Speed, deal 5 damage. If it isn't, opposing engaged Creature loses 10 Wisdom.",,,HotShots VFX
 Outwit,MI,Uncommon,95,1,0,5,,,,"Stat Check Power 50: Deal 5 damage.
-Stat Check Wisdom 50: Deal 5 damage.",,,,0B6oyUfwoM3u1TEs1bWRzMVVXZEk,1Vds5v9BigUVpzfHAufn8kbXiHclhuEyS,,HotShots VFX,
-Perplexing Heat,MI,Common,96,2,0,10,,,10,Fire: Opposing engaged Creature loses 25 Wisdom.,,,,0B6oyUfwoM3u1cWE5QncwT2hsUGM,1tdi7QTWWGsFbM3QVcfTe-O6TKiHgexeM,,Imaginary Friends Studios,
+Stat Check Wisdom 50: Deal 5 damage.",,,HotShots VFX
+Perplexing Heat,MI,Common,96,2,0,10,,,10,Fire: Opposing engaged Creature loses 25 Wisdom.,,,Imaginary Friends Studios
 Piercing Brilliance,MI,Uncommon,97,1,5,,,,,"Challenge Wisdom 15: Deal 10 damage.
-Stat Check Wisdom 50: Opposing engaged Creature loses 15 Wisdom.",,,,0B6oyUfwoM3u1eVZRRVk4T2U0bVk,1RJVe1Q-TBSaBqbZEx-kMMETRkLlr_qOT,,Imaginary Friends Studios,
-Plasmarrow,MI,Rare,98,3,10,10,10,,,Opposing engaged Creature may not be healed.,,,,0B6oyUfwoM3u1VTN6V0xsQmE2T1U,1eEnrFNzSgiE9ct6BkXUyPPkVX7Gjd6Jx,,HotShots VFX,
-Poison Panic,MI,Super Rare,99,1,0,,,,10,"If an Attack Card named Poison Panic is in your Attack Discard pile, reduce Poison Panic's damage by 5.",,,,0B6oyUfwoM3u1OW1ZMW1OUDZFYVU,1QKR0VKSKJ1gpt2WUO-LK5OZBvow9pjsj,,Imaginary Friends Studios,
+Stat Check Wisdom 50: Opposing engaged Creature loses 15 Wisdom.",,,Imaginary Friends Studios
+Plasmarrow,MI,Rare,98,3,10,10,10,,,Opposing engaged Creature may not be healed.,,,HotShots VFX
+Poison Panic,MI,Super Rare,99,1,0,,,,10,"If an Attack Card named Poison Panic is in your Attack Discard pile, reduce Poison Panic's damage by 5.",,,Imaginary Friends Studios
 Poison Sphere,MI,Uncommon,100,1,5,,,,,"Challenge Speed 15: Deal 10 damage.
-Stat Check Speed 50: Opposing engaged Creature loses 15 Speed.",,,,0B6oyUfwoM3u1UE94Um54ajJGNWc,1FuGLxIp4K0xEK1PrGask-S2sF-3rILL2,,Imaginary Friends Studios,
-Power Punch,MI,Rare,101,0,0,,,,,"If your Creature's Power is more than opposing engaged Creature's Wisdom, deal 5 damage. If it isn't, opposing engaged Creature loses 10 Power.",,,,0B6oyUfwoM3u1dXF5YzhEaWIxT3c,1Zru7wS3SMO45VPq5-q0d2If8F7OgIsKl,,HotShots VFX,Dagger
-Primal Smash,MI,Ultra Rare,102,1,20,,,,,,,1,,0B6oyUfwoM3u1ZENxTFozT3pPUDg,1GN6oQVpd-pwIABt0N_1J0wGbyvf7jaz_,,XXXXX,Dagger
-Psi-mageddon,MI,Super Rare,103,5,10,,,,,Deal 20 damage for each Minion Creature Card in your general discard pile.,,1,,0B6oyUfwoM3u1bG5HUnVLSlFtU1U,1ra5wrVfCus-QIVhnzzvSTLWr7V4Zohvd,,Imaginary Friends Studios,Dagger
-Psychodrain,MI,Common,104,0,0,,,,,Opposing engaged Creature loses 20 Power.,,,,0B6oyUfwoM3u1RUJoeTRnQm1hd2c,1grmetOarAtEMN9ihfaJOqlzdGJhg-p-y,,Imaginary Friends Studios,Dagger
-Quick Exit,MI,Common,105,0,0,,,,,Challenge Wisdom 15: Deal 10 damage.,,,Starter,0B6oyUfwoM3u1X3pMN0QyWnVtVjg,1B3KkcrdzP6wehFhdFbuHIdMrlMC30euM,,"Andrew Bradshaw, David Curiel",
-Radical Ice Balls,MI,Common,106,1,0,,5,5,,Earth: Gain 10 Speed.,,,,0B6oyUfwoM3u1MFBwR2JTSlU4NUk,1hkgTd5UTKKGZs6-ZU3KZ1Sa_jERmSgi0,,Imaginary Friends Studios,
-Rip Tide,MI,Uncommon,107,1,5,,,,5,Water: Opposing engaged Creature loses 25 Courage.,Watch out for the undertow!,,Starter,0B6oyUfwoM3u1ZUk4VUhRZ0hjX2M,17LbqYStbZ7AtF6_SMrjhYuytk4VWgoXN,,"Edwin Nebres, Andrew Bradshaw, David Curiel",
-Screeching Scare,MI,Rare,108,0,0,,,,,"If your Creature's Courage is more than opposing engaged Creature's Power, deal 5 damage. If it isn't, opposing engaged Creature loses 10 Courage.",,,,0B6oyUfwoM3u1TjJxV05HR0tjQkE,17kWcrLTGLVWSOGV8dOaxD7aNCX_rp5IE,,HotShots VFX,Dagger
-Shadow Strike,MI,Common,109,0,0,,,,,Challenge Courage 15: Deal 10 damage.,,,Starter,0B6oyUfwoM3u1TVVPUXA3QTRYTmc,1XsPg3FuMMMy0ZSb4y_Zhhu0S_CSzJ7nF,,"Andrew Bradshaw, David Curiel",
-Shriek Shock,MI,Common,110,0,0,,,,,Stat Check Speed 50: Deal 5 damage.,,,Starter,0B6oyUfwoM3u1bnE4aUhnR3dKWTg,1sB-BvCnJXEe2JkBKeukRpGhvW1WofDhz,,"David Rodriguez, Edwin Nebres, Etienne St.Laurent",
+Stat Check Speed 50: Opposing engaged Creature loses 15 Speed.",,,Imaginary Friends Studios
+Power Punch,MI,Rare,101,0,0,,,,,"If your Creature's Power is more than opposing engaged Creature's Wisdom, deal 5 damage. If it isn't, opposing engaged Creature loses 10 Power.",,,HotShots VFX
+Primal Smash,MI,Ultra Rare,102,1,20,,,,,,,1,XXXXX
+Psi-mageddon,MI,Super Rare,103,5,10,,,,,Deal 20 damage for each Minion Creature Card in your general discard pile.,,1,Imaginary Friends Studios
+Psychodrain,MI,Common,104,0,0,,,,,Opposing engaged Creature loses 20 Power.,,,Imaginary Friends Studios
+Quick Exit,MI,Common,105,0,0,,,,,Challenge Wisdom 15: Deal 10 damage.,,,"Andrew Bradshaw, David Curiel"
+Radical Ice Balls,MI,Common,106,1,0,,5,5,,Earth: Gain 10 Speed.,,,Imaginary Friends Studios
+Rip Tide,MI,Uncommon,107,1,5,,,,5,Water: Opposing engaged Creature loses 25 Courage.,Watch out for the undertow!,,"Edwin Nebres, Andrew Bradshaw, David Curiel"
+Screeching Scare,MI,Rare,108,0,0,,,,,"If your Creature's Courage is more than opposing engaged Creature's Power, deal 5 damage. If it isn't, opposing engaged Creature loses 10 Courage.",,,HotShots VFX
+Shadow Strike,MI,Common,109,0,0,,,,,Challenge Courage 15: Deal 10 damage.,,,"Andrew Bradshaw, David Curiel"
+Shriek Shock,MI,Common,110,0,0,,,,,Stat Check Speed 50: Deal 5 damage.,,,"David Rodriguez, Edwin Nebres, Etienne St.Laurent"
 Sink Scream,MI,Ultra Rare,111,5,0,,,,,"Fire: Reduce opposing engaged Creature's Power to 0.
 Air: Reduce opposing engaged Creature's Speed to 0.
 Earth: Reduce opposing engaged Creature's Courage to 0.
-Water: Reduce opposing engaged Creature's Wisdom to 0.",,,Starter,0B6oyUfwoM3u1LXRyYmdweDhqbjQ,1Mn88-Edqp7DCmXbRlblaI4tjoAgK8sHk,,HotShots VFX,
-Slowsand,MI,Common,112,2,0,,10,10,,Earth: Opposing engaged Creature loses 25 Speed.,,,,0B6oyUfwoM3u1STNxOFBXb01HSkE,1n3FXCVzBPvjiVcLV14IcOCVZ_DNnRuH3,,Imaginary Friends Studios,
-Snare Attack,MI,Rare,113,0,0,,,,,"If your Creature's Speed is more than opposing engaged Creature's Courage, deal 5 damage. If it isn't, opposing engaged Creature loses 10 Speed.",,,,0B6oyUfwoM3u1UDkxaW8wTk1CUmM,1npV9c3rkjliBbVasMYLBcxTBd0c9IkY-,,HotShots VFX,Dagger
-Spirit Gust,MI,Common,114,0,0,,,,,Stat Check Courage 50: Deal 5 damage.,,,Starter,0B6oyUfwoM3u1Tk1mU2xpS25kNmM,1gtaVtMPJUWCCOFcI42JilLYbT5BYoRT7,,"Andrew Bradshaw, Edwin Nebres, David Curiel",
+Water: Reduce opposing engaged Creature's Wisdom to 0.",,,HotShots VFX
+Slowsand,MI,Common,112,2,0,,10,10,,Earth: Opposing engaged Creature loses 25 Speed.,,,Imaginary Friends Studios
+Snare Attack,MI,Rare,113,0,0,,,,,"If your Creature's Speed is more than opposing engaged Creature's Courage, deal 5 damage. If it isn't, opposing engaged Creature loses 10 Speed.",,,HotShots VFX
+Spirit Gust,MI,Common,114,0,0,,,,,Stat Check Courage 50: Deal 5 damage.,,,"Andrew Bradshaw, Edwin Nebres, David Curiel"
 Streak Strike,MI,Uncommon,115,1,0,,,5,,"Stat Check Speed 50: Deal 5 damage.
-Stat Check Courage 50: Deal 5 damage.",,,,0B6oyUfwoM3u1dmVNSGJIR3dINUU,1uOjSRpbBxkEvD2BCZlIL-UeOe6g33axx,,HotShots VFX,
-Stupefying Tide,MI,Uncommon,116,2,5,,,,5,Stat Fail Wisdom 50: Deal 10 damage.,,,Starter,0B6oyUfwoM3u1X1l0cjNRWWg0WVE,1FyKg8U_KS2WmyRE5gndbznu44JTeRzVV,,Imaginary Friends Studios,
+Stat Check Courage 50: Deal 5 damage.",,,HotShots VFX
+Stupefying Tide,MI,Uncommon,116,2,5,,,,5,Stat Fail Wisdom 50: Deal 10 damage.,,,Imaginary Friends Studios
 Terror-fying Tackle,MI,Uncommon,117,2,0,,,,,"Stat Fail Courage 100: Deal 5 damage.
 Stat Fail Courage 50: Deal 10 damage.
-Stat Fail Courage 5: Deal 15 damage.",,,,0B6oyUfwoM3u1c1VqcWxmMmFJRjA,1PrsXEpYcn8UxyIXjYGgYOvGf8IvlUpQS,,Imaginary Friends Studios,terrorfying terror fying
-Timeslow,MI,Common,118,0,0,,,,,Opposing engaged Creature loses 20 Speed.,,,,0B6oyUfwoM3u1V2ZYbWJYSU54Um8,1w3ALz-WPUnqpRsKNlzFaxHSuA28UOHdK,,Imaginary Friends Studios,Dagger
-Torrent of Flame,MI,Common,119,2,0,10,,,10,,,,Starter,0B6oyUfwoM3u1ZnpJS1VIYVdDeDA,1CuEOlMIjlV8y-346OJGfEEGkkYM6h8yN,,Emilio Lopez,
-Torrent of Water,MI,Common,120,1,0,,,5,5,Water: Gain 10 Courage.,,,,0B6oyUfwoM3u1cFY2VDM5ZmpMaFk,1WRSqbpUGS2yDPaesqgFIZXg-tlNRXZDb,,HotShots VFX,
-Velocitrap,MI,Common,121,0,0,,,,,Challenge Speed 15: Deal 10 damage.,,,Starter,0B6oyUfwoM3u1U2twbHI0R2tRQnM,135DB5g1He1uPLo4VtCZgaBW2ORt0qO8C,,"David Curiel, Francis Barrios",
-Vine Snare,MI,Uncommon,122,1,5,,,5,,Earth: Opposing engaged Creature loses 25 Speed.,,,Starter,0B6oyUfwoM3u1TnhQeDBBMTBvLUk,11DvyJcjwl4V972axSWnWEM9eAzQW2JtI,,"Edwin Nebres, Etienne St.Laurent",
-Web Cocoon,MI,Common,123,1,5,,,,,Stat Check Power 50: Your engaged Creature gains Fire.,,,Starter,0B6oyUfwoM3u1RXc2WGhWS2duYW8,1xuIoa9j2CdIshNTbgraWHeLRQGa-W1lC,,Imaginary Friends Studios,
-Whirling Wail,MI,Rare,124,3,10,,10,10,,Your opponent may not play Mugic Cards.,,,,0B6oyUfwoM3u1NHlOYURtcHVYZE0,1KPmSgGyDQ5Jh6Nd8i2yrQEXrfLoHYuNf,,HotShots VFX,
-Whirlwind Scythes,MI,Common,125,2,0,10,10,,,Air: Opposing engaged Creature loses 25 Power.,,,,0B6oyUfwoM3u1T1ZQS3A2Z1MzNG8,12OTOCB_NgbCaiIqd-czPUWEv3mdfUxw4,,Imaginary Friends Studios,
-Aftermath Feint,ROTO,Rare,47,0,0,,,,,"If your engaged Creature is defeated this turn, draw two Attack Cards and discard two Attack Cards.",,,,0B6oyUfwoM3u1MXkwR0tLMkl1MXM,1R3HrRRv7W4sd9U7lqssgAL4rssxfMgKS,,HotShots VFX,Dagger
-Caustic Cascade,ROTO,Uncommon,48,2,0,,,,20,,,,,0B6oyUfwoM3u1ZVpBcjNTanBTc00,1_TvgdCyI7TZ9lbbpVT6WtO2lqxHz7vxN,,HotShots VFX,
-Electric Rain,ROTO,Super Rare,49,2,0,,,,5,The opposing engaged Creature must pay an additional Mugic counter to play abilities which cost one or more Mugic counters.,,,,0B6oyUfwoM3u1aGRSX3E0RGNJZXc,1rN5aME__Pyj0WuGbuL22-JFqFL0tQVwq,,HotShots VFX,
-Fire Stream,ROTO,Common,50,0,0,5,,,,"If the opposing engaged Creature is equipped, damage dealt by Fire Stream is reduced to 0.",,,,0B6oyUfwoM3u1T2hvRDBFMDNLVHM,1ZEcqVH6ykoE0B9Z91jiHIpRg9dy6CTgc,,HotShots VFX,
-Fluidmight,ROTO,Common,51,3,5,,,,10,"When a Fluidmorpher deals damage with Fluidmight, it gains a Mugic counter.",,,,0B6oyUfwoM3u1WEhFN1NHR1R6M1U,10hYzI3Ufy8F-aVPOClwIVwTOxFGAb6QJ,,HotShots VFX,
-Force Balls,ROTO,Uncommon,52,1,5,5,,,5,"If you control non‐OverWorld Creatures, damage dealt by Force Balls is reduced to 0.",,,,0B6oyUfwoM3u1Qm5zb0lxaVFlaTg,1Vup1XiJVL-JUFerEH84qgIU4Bnwp2MVF,,Imaginary Friends Studios,
-Invader's Tactics,ROTO,Rare,53,1,10,,,,0,"If your opponent controls the active Location, deal an additional 5 damage.",,,,0B6oyUfwoM3u1cm1fUl9pX1lwZTQ,13zYttgH-C9aOBNyVJ_36y7XA1PAWwlWo,,Imaginary Friends Studios,
-Kha'rall Crush,ROTO,Common,54,1,5,,,,5,"If your engaged Creature is equipped with a Shard, deal an additional 10 damage.",,,,0B6oyUfwoM3u1TVNzaU1ZRVhnc0U,1pAgKny-WJYecjoBOWb0RtaTo-RCMZBi7,,HotShots VFX,Kha rall kharall
+Stat Fail Courage 5: Deal 15 damage.",,,Imaginary Friends Studios
+Timeslow,MI,Common,118,0,0,,,,,Opposing engaged Creature loses 20 Speed.,,,Imaginary Friends Studios
+Torrent of Flame,MI,Common,119,2,0,10,,,10,,,,Emilio Lopez
+Torrent of Water,MI,Common,120,1,0,,,5,5,Water: Gain 10 Courage.,,,HotShots VFX
+Velocitrap,MI,Common,121,0,0,,,,,Challenge Speed 15: Deal 10 damage.,,,"David Curiel, Francis Barrios"
+Vine Snare,MI,Uncommon,122,1,5,,,5,,Earth: Opposing engaged Creature loses 25 Speed.,,,"Edwin Nebres, Etienne St.Laurent"
+Web Cocoon,MI,Common,123,1,5,,,,,Stat Check Power 50: Your engaged Creature gains Fire.,,,Imaginary Friends Studios
+Whirling Wail,MI,Rare,124,3,10,,10,10,,Your opponent may not play Mugic Cards.,,,HotShots VFX
+Whirlwind Scythes,MI,Common,125,2,0,10,10,,,Air: Opposing engaged Creature loses 25 Power.,,,Imaginary Friends Studios
+Aftermath Feint,ROTO,Rare,47,0,0,,,,,"If your engaged Creature is defeated this turn, draw two Attack Cards and discard two Attack Cards.",,,HotShots VFX
+Caustic Cascade,ROTO,Uncommon,48,2,0,,,,20,,,,HotShots VFX
+Electric Rain,ROTO,Super Rare,49,2,0,,,,5,The opposing engaged Creature must pay an additional Mugic counter to play abilities which cost one or more Mugic counters.,,,HotShots VFX
+Fire Stream,ROTO,Common,50,0,0,5,,,,"If the opposing engaged Creature is equipped, damage dealt by Fire Stream is reduced to 0.",,,HotShots VFX
+Fluidmight,ROTO,Common,51,3,5,,,,10,"When a Fluidmorpher deals damage with Fluidmight, it gains a Mugic counter.",,,HotShots VFX
+Force Balls,ROTO,Uncommon,52,1,5,5,,,5,"If you control non‐OverWorld Creatures, damage dealt by Force Balls is reduced to 0.",,,Imaginary Friends Studios
+Invader's Tactics,ROTO,Rare,53,1,10,,,,0,"If your opponent controls the active Location, deal an additional 5 damage.",,,Imaginary Friends Studios
+Kha'rall Crush,ROTO,Common,54,1,5,,,,5,"If your engaged Creature is equipped with a Shard, deal an additional 10 damage.",,,HotShots VFX
 Marksman's Preparation,ROTO,Uncommon,55,1,0,,0,,,"The opposing engaged Creature cannot gain Mugic counters.
-You may discard another card named Marksman's Preparation. If you do, deal an additional 30 damage and draw an Attack Card.",,,,0B6oyUfwoM3u1QXJQVXB6ZGJZc2s,1JM9KRHmUJfCCiTF_giHUP9pEkvQYC0Sn,,Imaginary Friends Studios,
-Mightswing,ROTO,Uncommon,56,1,5,5,5,,,"If you control non‐UnderWorld Creatures, damage dealt by Mightswing is reduced to 0.",,,,0B6oyUfwoM3u1cWRPcmlLS2ppVms,1MBDHyUnn0kkHa-7lDOYgYHYj9GAtKcj6,,HotShots VFX,
-Petrifying Power,ROTO,Common,57,0,0,,,5,,"If your opponent controls the active Location, damage dealt by Petrifying Power is reduced to 0.",,,,0B6oyUfwoM3u1eHJEZEVEX3VUZGM,1apT81Uf2oEvvBO8cCmm7fe0Lz6HNzGb_,,Imaginary Friends Studios,
-Poison Steam,ROTO,Common,58,0,0,,5,,,"If you have fewer Mugic Cards in your hand than your opponent, damage dealt by Poison Steam is reduced to 0.",,,,0B6oyUfwoM3u1RUsyWWJVcWtiX2M,16111ErJZDVWItpwQ3HXEHMWTYbevzyyu,,HotShots VFX,
-Rage of Aa'une,ROTO,Rare,59,1,5,,,,5,"If your engaged Creature is a Chieftain, deal an additional 10 damage.",,,,0B6oyUfwoM3u1SHBNc2ZLUjlpMTA,1_bTmoKtlyrNSoZspyfJGvEUnpPne2Nl3,,Imaginary Friends Studios,aa une aaune
-Rancorous Projection,ROTO,Super Rare,60,2,40,,,,,"For each Discipline over 50 the opposing engaged Creature has, damage dealt by Rancorous Projection is reduced by 10.",,,,0B6oyUfwoM3u1dElJN0NwV2lwd0k,1SbO8AZkgyYN3DqpsLF6kOGFQOVWtC1rw,,Imaginary Friends Studios,Dagger
-Sandstrike,ROTO,Uncommon,61,1,5,,5,5,,"If you control non‐Mipedian Creatures, damage dealt by Sandstrike is reduced to 0.",,,,0B6oyUfwoM3u1ay05bER1M05URk0,1ghY9b3lC2YB7MPctnDFrfzmAbmUYvYdu,,HotShots VFX,
-Solar Flare,ROTO,Rare,62,3,5,,,,10,"Remove X Mugic counters from the opposing engaged Creature, where X is the number of Mugic counters on your engaged Creature.",,,,0B6oyUfwoM3u1Vm5ZTlNhbUtpZTQ,1bSDTRt0wnoTE7unsRErirquuH8-Tf3qU,,HotShots VFX,
-Supercooled Rain,ROTO,Super Rare,63,5,15,,,,25,Your opponent removes a total of 4 Mugic counters from among any Creatures they control.,,,,0B6oyUfwoM3u1LUhHS2ZaRWlyb2M,17ixzPjJmLzZ_pPrdukIEyXdO9sTESLt2,,HotShots VFX,
-Swarming Destruction,ROTO,Uncommon,64,1,5,,,5,5,"If you control non‐Danian Creatures, damage dealt by Swarming Destruction is reduced to 0.",,,,0B6oyUfwoM3u1MXk0a0NRR2FlOUk,1Ayv-i25EDhdZHwK48U5X55uviIZu308P,,Imaginary Friends Studios,
-Tainted Thunderstorm,ROTO,Rare,65,4,10,,,,20,Challenge Mugic counters 1: Deal 20 damage,,,,0B6oyUfwoM3u1Ull3X1VOUmU2TlE,1zN_m00Du2qOejBOWac_Ilgx5WZrfGQED,,HotShots VFX,
-Tidal Surge,ROTO,Common,66,0,0,,,,5,"If the opposing engaged Creature has any Mugic counters, damage dealt by Tidal Surge is reduced to 0.",,,,0B6oyUfwoM3u1clpQQ2t3Q19fY2s,1z3hTH92mikIZ9bhctUI31O335RhUGUp-,,Imaginary Friends Studios,
-Academy Strike,TOTT,Rare,36,1,0,,,,,Stat Check Speed 100: Deal 15 damage.,,,,0B6oyUfwoM3u1b3Fhb1hGVkgxSGM,15znetpaFekI-qZHOOqm8EXVxaAC8HnYH,,HotShots VFX,
+You may discard another card named Marksman's Preparation. If you do, deal an additional 30 damage and draw an Attack Card.",,,Imaginary Friends Studios
+Mightswing,ROTO,Uncommon,56,1,5,5,5,,,"If you control non‐UnderWorld Creatures, damage dealt by Mightswing is reduced to 0.",,,HotShots VFX
+Petrifying Power,ROTO,Common,57,0,0,,,5,,"If your opponent controls the active Location, damage dealt by Petrifying Power is reduced to 0.",,,Imaginary Friends Studios
+Poison Steam,ROTO,Common,58,0,0,,5,,,"If you have fewer Mugic Cards in your hand than your opponent, damage dealt by Poison Steam is reduced to 0.",,,HotShots VFX
+Rage of Aa'une,ROTO,Rare,59,1,5,,,,5,"If your engaged Creature is a Chieftain, deal an additional 10 damage.",,,Imaginary Friends Studios
+Rancorous Projection,ROTO,Super Rare,60,2,40,,,,,"For each Discipline over 50 the opposing engaged Creature has, damage dealt by Rancorous Projection is reduced by 10.",,,Imaginary Friends Studios
+Sandstrike,ROTO,Uncommon,61,1,5,,5,5,,"If you control non‐Mipedian Creatures, damage dealt by Sandstrike is reduced to 0.",,,HotShots VFX
+Solar Flare,ROTO,Rare,62,3,5,,,,10,"Remove X Mugic counters from the opposing engaged Creature, where X is the number of Mugic counters on your engaged Creature.",,,HotShots VFX
+Supercooled Rain,ROTO,Super Rare,63,5,15,,,,25,Your opponent removes a total of 4 Mugic counters from among any Creatures they control.,,,HotShots VFX
+Swarming Destruction,ROTO,Uncommon,64,1,5,,,5,5,"If you control non‐Danian Creatures, damage dealt by Swarming Destruction is reduced to 0.",,,Imaginary Friends Studios
+Tainted Thunderstorm,ROTO,Rare,65,4,10,,,,20,Challenge Mugic counters 1: Deal 20 damage,,,HotShots VFX
+Tidal Surge,ROTO,Common,66,0,0,,,,5,"If the opposing engaged Creature has any Mugic counters, damage dealt by Tidal Surge is reduced to 0.",,,Imaginary Friends Studios
+Academy Strike,TOTT,Rare,36,1,0,,,,,Stat Check Speed 100: Deal 15 damage.,,,HotShots VFX
 Acceleration,TOTT,Common,37,2,0,,,,,"Challenge Speed 5: Deal 10 damage.
 Challenge Speed 30: Deal 10 damage.
-Challenge Speed 50: Deal 10 damage.",,,,0B6oyUfwoM3u1czc1Y213OHJTbVE,1swjoxy5L0KIX_5EIM7FNWaoRCeKk1d0T,,Imaginary Friends Studios,
+Challenge Speed 50: Deal 10 damage.",,,Imaginary Friends Studios
 Aqua Recoil,TOTT,Common,38,0,0,,,0,0,"Water: Heal 5 damage.
-Earth: Gain 10 Courage.",,,,0B6oyUfwoM3u1bDNCYnc4YXdRU2M,1C5ibymvlL3ncEv9wJBzfQpw7Ccfc8KF0,,HotShots VFX,
+Earth: Gain 10 Courage.",,,HotShots VFX
 Charge of the Brave,TOTT,Common,39,2,0,,,,,"Challenge Courage 5: Deal 10 damage.
 Challenge Courage 30: Deal 10 damage.
-Challenge Courage 50: Deal 10 damage.",,,,0B6oyUfwoM3u1YTJJN1NsaUROZjg,1Ovsw__hN9sS-sXxpPs6j6Koylrh5GIcc,,Imaginary Friends Studios,
+Challenge Courage 50: Deal 10 damage.",,,Imaginary Friends Studios
 Flamebloom,TOTT,Common,40,0,0,0,,,0,"Fire: Heal 5 damage.
-Water: Gain 10 Wisdom.",,,,0B6oyUfwoM3u1cTRMWElxU0JyV2c,1ltMNXqCPvV0L5Mu3b1HrvxbkVTYByap_,,HotShots VFX,
+Water: Gain 10 Wisdom.",,,HotShots VFX
 Flying Advantage,TOTT,Common,41,0,0,0,0,,,"Air: Heal 5 damage.
-Fire: Gain 10 Power.",,,,0B6oyUfwoM3u1SE0xLThaZDhuaEE,18F9cq_STGeOMctxVbOvs41BcibZEu0Fj,,Imaginary Friends Studios,
-Glacial Balls,TOTT,Uncommon,42,1,0,,,,,Stat Check Wisdom 100: Deal 15 damage.,,,,0B6oyUfwoM3u1SnRXY2M4dFkyUzA,1um5sf1c8JZv5AXynA2d5snixWrtMYYuF,,HotShots VFX,
-Infectious Implosion,TOTT,Rare,43,1,0,,,5,,"If the opposing engaged Creature is Infected, deal 10 damage.",,,,0B6oyUfwoM3u1MTZ1cEQ3eC1UR0U,1zwwTx5TdJVJA9H3Xs5cPjYxc8d8IGRpW,,"Chris Fisher, HotShots VFX",
-Landgore,TOTT,Rare,44,1,0,5,5,5,5,,,1,,0B6oyUfwoM3u1ckc4T1JPWmVqLW8,1Yz5K3esJooBRsnbn2fWGR6P-0oiwc764,,HotShots VFX,
-Magma Hack,TOTT,Super Rare,45,1,0,,,,,Stat Check Power 100: Deal 15 damage.,,,,0B6oyUfwoM3u1anprM1ZWM3A4cFE,1YmDWaNmrdT29kaxnXnW4KMM7ae1Jg9Ez,,HotShots VFX,
+Fire: Gain 10 Power.",,,Imaginary Friends Studios
+Glacial Balls,TOTT,Uncommon,42,1,0,,,,,Stat Check Wisdom 100: Deal 15 damage.,,,HotShots VFX
+Infectious Implosion,TOTT,Rare,43,1,0,,,5,,"If the opposing engaged Creature is Infected, deal 10 damage.",,,"Chris Fisher, HotShots VFX"
+Landgore,TOTT,Rare,44,1,0,5,5,5,5,,,1,HotShots VFX
+Magma Hack,TOTT,Super Rare,45,1,0,,,,,Stat Check Power 100: Deal 15 damage.,,,HotShots VFX
 Mindrazor,TOTT,Common,46,2,0,,,,,"Challenge Wisdom 5: Deal 10 damage.
 Challenge Wisdom 30: Deal 10 damage.
-Challenge Wisdom 50: Deal 10 damage.",,,,0B6oyUfwoM3u1a0J6ZUxGQzJ4Q3c,1ZKpPvK-CML0G4dO_jQrbDX0llAsEO4Q4,,Imaginary Friends Studios,
+Challenge Wisdom 50: Deal 10 damage.",,,Imaginary Friends Studios
 Morphwrath,TOTT,Super Rare,47,1,0,,,,5,"Challenge Mugic counters 1: Deal 5 damage.
 Challenge Mugic counters 3: Deal 5 damage.
-Challenge Mugic counters 5: Deal 5 damage.",,,,1tWKGnmZ7DbPpW8UUJghLf84vCE9eXUwf,1K6YJpf1_c7fl5_EMLT7bnrbvVF_Wrf5Y,,HotShots VFX,
+Challenge Mugic counters 5: Deal 5 damage.",,,HotShots VFX
 Morphwrath (Prototype),TOTT,Promo,47b,1,0,,,,5,"Deal 5 damage for each Mugic counter on Creatures you control.
-Morphwrath deals 5 less damage for each Mugic counter on opposing Creatures. (Attacks which would deall less than 0 damage deal 0 instead.)",,1,,0B6oyUfwoM3u1ZzQxTi1wekd2QVk,1K6YJpf1_c7fl5_EMLT7bnrbvVF_Wrf5Y,,HotShots VFX,
+Morphwrath deals 5 less damage for each Mugic counter on opposing Creatures. (Attacks which would deall less than 0 damage deal 0 instead.)",,1,HotShots VFX
 Prowl Strike,TOTT,Common,48,2,0,,,,,"Challenge Power 5: Deal 10 damage.
 Challenge Power 30: Deal 10 damage.
-Challenge Power 50: Deal 10 damage.",,,,0B6oyUfwoM3u1d0RkczJxejNnVGs,1icdfbBcOIXrXVpoAl_jiyeTbBdeIifCE,,Imaginary Friends Studios,
-Reefquake,TOTT,Uncommon,49,2,10,,,,,Deal 5 damage for each Kha'rall you control.,,,,0B6oyUfwoM3u1dU1XSHd1c0NFd3M,1yvwrc1HvgEWWHr07h4AenoElaeDgQl8Z,,HotShots VFX,Dagger
+Challenge Power 50: Deal 10 damage.",,,Imaginary Friends Studios
+Reefquake,TOTT,Uncommon,49,2,10,,,,,Deal 5 damage for each Kha'rall you control.,,,HotShots VFX
 Sediment Stormshield,TOTT,Common,50,0,0,,0,0,,"Earth: Heal 5 damage.
-Air: Gain 10 Speed.",,,,0B6oyUfwoM3u1RU1KQ2FZWTRoUEk,1wvvlQQE9uXRk1xOJO9smvZKhD0bcrec4,,Imaginary Friends Studios,
-Slime Slam,TOTT,Uncommon,51,1,0,,,5,5,Stat Fail Power 50: Flip the opposing engaged Creature's Battlegear face-down.,,,,0B6oyUfwoM3u1WXNNa0RMWnU1eWs,1-SDUTQHYmjqH6XIBmPMS3QGPpt8iMVvz,,HotShots VFX,
-Ultimate Warstance,TOTT,Super Rare,52,4,5,,10,10,,"Earth, Air: The next attack played this combat deals 0 damage.",,1,,0B6oyUfwoM3u1WUpCWWpORTk0RkE,1k4gRj0eHL-HCWjerhmfd6Ybd_y-Jrjmz,,"Chris Fisher, HotShots VFX",
-Unarmed Brawl Bash,TOTT,Rare,53,1,0,,,,,Stat Check Courage 100: Deal 15 damage.,,,,0B6oyUfwoM3u1NU00bjZqT0loLW8,1QUhv-U0_ww6LQ-VHfdWRpQ1HZ480-ac_,,HotShots VFX,
-Vigorous Gust,TOTT,Uncommon,54,2,0,5,5,,,"Air: Relocate both engaged Creatures into an adjacent, unoccupied space on the Battleboard. Combat continues in that space.",,,,0B6oyUfwoM3u1Zmt2TnpWQVljVE0,1SXywlsdDhrV3px4pfuyaOyJYnmmzMtY_,,"Chris Fisher, Imaginary Friends Strudios",
-Winterclaw,TOTT,Super Rare,55,3,5,,10,,10,"If the active Location's Initiative is a Discipline, deal 15 damage.",,,,0B6oyUfwoM3u1ZC0wdnF5S01BOU0,1gCzti6dfo5gRSBjkPBqyb5LtgOYZwgil,,"Etienne St.Laurent, Imaginary Friends Studios",
+Air: Gain 10 Speed.",,,Imaginary Friends Studios
+Slime Slam,TOTT,Uncommon,51,1,0,,,5,5,Stat Fail Power 50: Flip the opposing engaged Creature's Battlegear face-down.,,,HotShots VFX
+Ultimate Warstance,TOTT,Super Rare,52,4,5,,10,10,,"Earth, Air: The next attack played this combat deals 0 damage.",,1,"Chris Fisher, HotShots VFX"
+Unarmed Brawl Bash,TOTT,Rare,53,1,0,,,,,Stat Check Courage 100: Deal 15 damage.,,,HotShots VFX
+Vigorous Gust,TOTT,Uncommon,54,2,0,5,5,,,"Air: Relocate both engaged Creatures into an adjacent, unoccupied space on the Battleboard. Combat continues in that space.",,,"Chris Fisher, Imaginary Friends Strudios"
+Winterclaw,TOTT,Super Rare,55,3,5,,10,,10,"If the active Location's Initiative is a Discipline, deal 15 damage.",,,"Etienne St.Laurent, Imaginary Friends Studios"
 Alacritous Force,FUN,Uncommon,39,2,5,,,,,"Stat Check Power 60: Deal 10 damage.
-Stat Check Speed 60: Deal 10 damage.",,,,1BMmF2bop7MbvZZY7TrPMYpYfsdsno18l,1Cku8i0HPXXRO0hv2WDHTMD-ksgcuWX1I,,"Emilio Lopez, Imaginary Friends Studios",
+Stat Check Speed 60: Deal 10 damage.",,,"Emilio Lopez, Imaginary Friends Studios"
 Braveglint,FUN,Uncommon,40,2,5,,,,,"Stat Check Courage 60: Deal 10 damage.
-Stat Check Speed 60: Deal 10 damage.",,,,1FQyuiMbeK2NkwMCM82GjhFlBDiANGPRa,1HpfnbAe8IK-0ZTkilyoUWf42O7gHom70,,"Emilio Lopez, Imaginary Friends Studios",
-Clashjet,FUN,Common,41,1,0,5,5,,,Stat Check Power 50: Deal 5 Damage.,,,,1dbYrluTvh8DiAKZpfBAWEvHlbQqu4fUC,1s-0ND3XvTXqjfQLK4rSn_My3WaPHDQdK,,Imaginary Friends Studios,
-Coral Balls,FUN,Super Rare,42,1,0,,,,5,"If your engaged Creature has Defender, deal 10 damage.",,,,1D6WsgWHqxkBJciRNGWAJWEc04StNkVBX,1Or0AXSgbFZd9cJL_2E24vCcNXh5xUy4M,,"Sanford Greene, Etienne St.Laurent",
+Stat Check Speed 60: Deal 10 damage.",,,"Emilio Lopez, Imaginary Friends Studios"
+Clashjet,FUN,Common,41,1,0,5,5,,,Stat Check Power 50: Deal 5 Damage.,,,Imaginary Friends Studios
+Coral Balls,FUN,Super Rare,42,1,0,,,,5,"If your engaged Creature has Defender, deal 10 damage.",,,"Sanford Greene, Etienne St.Laurent"
 Directed Bravery,FUN,Uncommon,43,2,5,,,,,"Stat Check Courage 60: Deal 10 damage.
-Stat Check Wisdom 60: Deal 10 damage.",,,,1hnctQMq-P5AAYz-YcDmr0fWhgfnYqOe-,1wvJ0C0xtSPSjjzj72TZmDfE2ws-b8C3f,,Imaginary Friends Studios,
+Stat Check Wisdom 60: Deal 10 damage.",,,Imaginary Friends Studios
 Discipline Destruction,FUN,Super Rare,44,4,10,,,,,"Challenge Courage 15: Deal 10 damage.
 Challenge Power 15: Deal 10 damage.
 Challenge Wisdom 15: Deal 10 damage.
-Challenge Speed 15: Deal 10 damage.",,,,1c_2l7lmjMuKyjs2-6cbYWWzE5I831PFZ,1qqo7X4jbmscf_3dYdMYgND6URiJoEJf9,,"Andrew Bradshaw, Jimmy Tran",
+Challenge Speed 15: Deal 10 damage.",,,"Andrew Bradshaw, Jimmy Tran"
 Fearless Strike,FUN,Uncommon,45,2,5,,,,,"Stat Check Courage 60: Deal 10 damage.
-Stat Check Power 60: Deal 10 damage.",,,,1GmXdwc8wihcOP8-BxwflFFhoOHmjsfWx,1E4MGGGvM0oYic6NtuJby21Dhx_ghupCa,,Imaginary Friends Studios,
-Fire Ring,FUN,Rare,46,0,0,10,,,,"When you play Fire Ring, deal 10 damage to your engaged Creature.",,,,1_N2GJmg5kEus50-XRdNtyFHJ5-6RouHp,100ezje0RprVIPWBfIbJppstsPQXvODZ1,,"Sanford Greene, Etienne St.Laurent, Andrew Bradshaw",
-Funnel Blast,FUN,Common,47,1,0,,5,5,,Stat Check Speed 50: Deal 5 Damage.,,,,1xiH03etm8PJlBhyhQfT0ECKL1lT0kPjM,10KApfVIRA6FN90CnfN7jfTZwyaJgBd6Y,,Imaginary Friends Studios,
-Geyser Gush,FUN,Common,48,1,0,,,5,5,Stat Check Courage 50: Deal 5 Damage.,,,,1FyRJIdYmkodlNED4x8kP_K1-4zVzNz97,18Ty-onKIIn-3jnoYpSg_YLq0haX-W5VD,,Imaginary Friends Studios,
+Stat Check Power 60: Deal 10 damage.",,,Imaginary Friends Studios
+Fire Ring,FUN,Rare,46,0,0,10,,,,"When you play Fire Ring, deal 10 damage to your engaged Creature.",,,"Sanford Greene, Etienne St.Laurent, Andrew Bradshaw"
+Funnel Blast,FUN,Common,47,1,0,,5,5,,Stat Check Speed 50: Deal 5 Damage.,,,Imaginary Friends Studios
+Geyser Gush,FUN,Common,48,1,0,,,5,5,Stat Check Courage 50: Deal 5 Damage.,,,Imaginary Friends Studios
 Grantkae's Stance,FUN,Super Rare,49,3,0,,,,,"If you control 
 An OverWorlder, gain 10 Energy. 
 An UnderWorlder, destroy the opposing engaged Creature's Battlegear. 
 A Mipedian, the next attack played this turn deals 10 less damage. 
-A Danian, deal 10 damage.",,,,15pPF_R6ze3APaZWaoDCIoE5aTVOPgaMQ,1zo20oqjnEYRp8WyjS7-PNNkLe7rdNQNH,,Imaginary Friends Studios,Dagger
-Gravel Grind,FUN,Rare,50,1,5,,,5,,"Earth: When Gravel Grind deals damage, remove a card in a general discard pile from the game.",,,,1LDYKO8ypCPhLRBZcWjDLC7inwqrzTDyy,1CE6IUN_6eEd1AXfkHSiq2iCzfK8-kUOa,,Imaginary Friends Studios,
-Heartsync,FUN,Rare,51,3,15,,,,,Stat Check Courage 75: Look at the top two cards of your opponent's Attack Deck. Put one on top of that deck and the other on the bottom.,,,,1aoIExJtBwf01_qgWNS2Nqh8ig_Lst6qb,17zdDs34XXXAxuibKkdmnq4KfcB26yEyD,,Imaginary Friends Studios,
-Inner Flood,FUN,Rare,52,0,0,,,,0,Water: Remove a Mugic counter from a Creature and put a Mugic counter on another Creature controlled by the same player.,,,,1VGM-hx29F-4CQLDay1mLNEAyeb2CBTBQ,1vlHgzhlte_13lPHLxRfTx87c36E-6kc0,,HotShots VFX,
+A Danian, deal 10 damage.",,,Imaginary Friends Studios
+Gravel Grind,FUN,Rare,50,1,5,,,5,,"Earth: When Gravel Grind deals damage, remove a card in a general discard pile from the game.",,,Imaginary Friends Studios
+Heartsync,FUN,Rare,51,3,15,,,,,Stat Check Courage 75: Look at the top two cards of your opponent's Attack Deck. Put one on top of that deck and the other on the bottom.,,,Imaginary Friends Studios
+Inner Flood,FUN,Rare,52,0,0,,,,0,Water: Remove a Mugic counter from a Creature and put a Mugic counter on another Creature controlled by the same player.,,,HotShots VFX
 Instantaneous Inspiration,FUN,Uncommon,53,2,5,,,,,"Stat Check Wisdom 60: Deal 10 damage.
-Stat Check Speed 60: Deal 10 damage.",,,,1z8STAprTIzl0MeCndYJxuicuCRhYkd9t,15HqN-xKZ6SQrFL_Ryu9fz7tM_ouCpH8Q,,HotShots VFX,
-Interthink,FUN,Rare,54,3,15,,,,,Stat Check Wisdom 75: You may put a Mugic counter on any Creature.,,,,1kSzVR7s6wLu1A0DktAWCzposqKsxPYb1,13ZZIp4R9Xw5Tc2eTMIK2D3TAgDLGsjS5,,"Sanford Greene, Etienne St.Laurent",
-Massblink,FUN,Rare,55,3,15,,,,,Stat Check Speed 75: You may swap the positions of two unengaged Creatures that are adjacent to each other.,,,,1nKlLhCIfZUIITqv7zWsdGVSzTymzUeyg,17rLINk2Xl1xTCMur7YhsLDeShO3PJNH_,,"Andrew Bradshaw, Jimmy Tran",
+Stat Check Speed 60: Deal 10 damage.",,,HotShots VFX
+Interthink,FUN,Rare,54,3,15,,,,,Stat Check Wisdom 75: You may put a Mugic counter on any Creature.,,,"Sanford Greene, Etienne St.Laurent"
+Massblink,FUN,Rare,55,3,15,,,,,Stat Check Speed 75: You may swap the positions of two unengaged Creatures that are adjacent to each other.,,,"Andrew Bradshaw, Jimmy Tran"
 Powercut,FUN,Common,56,0,0,,,,,"Stat Check Power 60: Deal 10 damage.
-Lose 60 Power.",,,,1kDRHFXN7YPqTS3BzjrCm2zSo3IPed-JT,1qtEjQ6BvY56OkeSGbHntsoWktH91NKM9,,Imaginary Friends Studios,
-Sirocco,FUN,Rare,57,1,0,,5,,,Air: Flip a face-down Battlegear you control face-up.,,,,1f_jNim9WRJJLwn9ShzpbywAmd-sPENRq,1lHtLTrfnewNOJlb8wMy4vACYdR24cGpI,,Imaginary Friends Studios,
+Lose 60 Power.",,,Imaginary Friends Studios
+Sirocco,FUN,Rare,57,1,0,,5,,,Air: Flip a face-down Battlegear you control face-up.,,,Imaginary Friends Studios
 Smartsmack,FUN,Uncommon,58,2,5,,,,,"Stat Check Power 60: Deal 10 damage.
-Stat Check Wisdom 60: Deal 10 damage.",,,,17b7AStf65UzDoD543T2duhyY-cbHxfNO,1hWrwlwmbVQ4BYrJVjmNiQXsS2pvx9J_e,,Imaginary Friends Studios,
-Strengthening Bond,FUN,Rare,59,3,15,,,,,"Stat Check Power 75: When Strengthening Bond deals damage, destroy target Battlegear.",,,,1aOZ0qM5Rth3T11N7QsUPuYu0xbMge4a_,1u3Rd299r-7nfHSHdFmd404s8wrSubscv,,"Emilio Lopez, Imaginary Friends Studios",
-Thermo Rings,FUN,Common,60,1,0,5,,,5,Stat Check Wisdom 50: Deal 5 Damage.,,,,10FvI7lutDGbqBBNY0foedFcOg1Gz63Nt,1EFAP1d_dymTpmD5WMZeJo4O4rpGdRrAO,,HotShots VFX,
+Stat Check Wisdom 60: Deal 10 damage.",,,Imaginary Friends Studios
+Strengthening Bond,FUN,Rare,59,3,15,,,,,"Stat Check Power 75: When Strengthening Bond deals damage, destroy target Battlegear.",,,"Emilio Lopez, Imaginary Friends Studios"
+Thermo Rings,FUN,Common,60,1,0,5,,,5,Stat Check Wisdom 50: Deal 5 Damage.,,,HotShots VFX
 Thinkray,FUN,Common,61,0,0,,,,,"Stat Check Wisdom 60: Deal 10 damage.
-Lose 60 Wisdom.",,,,1tqX0Rpeh_FcrhIcFpIBu8Yb97O2KLmBD,1u6CcxLvSzdY7hJmmiplQyDSL3nazxGKL,,"Emilio Lopez, Imaginary Friends Studios",
+Lose 60 Wisdom.",,,"Emilio Lopez, Imaginary Friends Studios"
 Unbalanced Charge,FUN,Common,62,0,0,,,,,"Stat Check Speed 60: Deal 10 damage.
-Lose 60 Speed.",,,,1WySpya3_XeHzABzYd3ydtGpdLpUmr971,1nxU6AeHwHqRDDqhyxfmVarFHKxLBG5VZ,,Imaginary Friends Studios,
-Unified Tribecharge,FUN,Ultra Rare,63,5,10,,,,,Deal 10 damage for each Tribe you control.,,,,1OoCLHBvEGZj37wAkwzlV1MLNfl1hPu1h,11ae7E9vSd4kCSWBsTKiiFo6BDuHDDLoH,,"Andrew Bradshaw, Reggie Butler",Dagger
+Lose 60 Speed.",,,Imaginary Friends Studios
+Unified Tribecharge,FUN,Ultra Rare,63,5,10,,,,,Deal 10 damage for each Tribe you control.,,,"Andrew Bradshaw, Reggie Butler"
 Valor Continuum,FUN,Common,64,0,0,,,,,"Stat Check Courage 60: Deal 10 damage.
-Lose 60 Courage.",,,,1ojLPOpJOupQgXxDa9Z-rFM4RvZFtpoGN,18CpxYm5QRsbDhU6WmyeZYySg817Y82gc,,Imaginary Friends Studios,
-Aerosion,AU,Rare,84,2,5,,5,5,,Air Flip all Battlegear equipped to engaged Creatures face-down.,,,,17hcjburMyMHqEgq5rcr4SHc8AuXzhjzz,1sMlpqEZw8SDjX5pv9mzJ-_w1MqlbvlXz,,"Andrew Bradshaw, Etienne St.Laurent",
-Airize,AU,Common,85,0,0,,5,,,"If the opposing engaged Creature has Air, damage dealt by Airize is reduced to 0.",,,,1sQW8XS17CJeUNyTtjj1M6OiD-rKK848z,1EYriFCw1sU1Px3vCp3f3SnfbBSsHm_zf,,"Keith Conroy, Reggie Butler",
-Airsault,AU,Common,86,1,0,,15,,,,,,,1HEP4cEJ-1yg2XQdLlKc-yNFsHU-9LW6I,1YBeqOSw9gG4nvyP1cYJD17_LxX1R6G6r,,"Andrew Bradshaw, Etienne St.Laurent",
-Atmosfear,AU,Common,87,1,5,,5,,,"If your engaged creature has Invisibility, deal 5 damage.",,,,1LUT3U3ddI4bmpyq4pjb0cMn2agZT24F-,1pqKpgF1Ztd_4NigC9NAOmriJSswEm2Rr,,Imaginary Friends Studios,
-Before the Storm,AU,Super Rare,88,4,15,,15,,,Air: This counts as your first attack.,,,,1Q3sS41f12WRXNu4a_6joQ1Jifxezo_jD,1PKFiw3OctUpIyzX-NU7hQp-zVOgMojaj,,Imaginary Friends Studios,
-Clean Slide,AU,Common,89,0,0,,,5,,"If the opposing engaged Creature has Earth, damage dealt by Clean Slide is reduced to 0.",,,,1sjPlWO0H2xXvlmEh3QSCspu6iLkKz6En,1baqxrY0YYMxgXNE_xWaOsGbeJnrgQcht,,Imaginary Friends Studios,
-Combustion Carnage,AU,Rare,90,0,0,0,,,,"Fire: You may sacrifice an unengaged Creature you control. If you do, deal 20 damage.",,,,1pLg00podOTeT3MpaBF3H8xTmrrBgDx-8,16i8yHVY_au9HzwDTtAHV2n52dEHaqfka,,"Andrew Bradshaw, Etienne St.Laurent",
-Consuming Flame,AU,Common,91,1,0,15,,,,,,,,1jyBETC1uuwF6kNk_SiY4TY4_sBNKJ_4D,1rrAmNWTRoCGYc3sTgCYJj35qMY-WbrY4,,Imaginary Friends Studios,
-Deadwater Devastation,AU,Super Rare,92,4,15,,,,15,Water: Remove all Mugic counters from a Creature of your choice.,,,,1g2FNWYj8rymABOblj7LjBxkoX5bhDoNa,1oGPCQ_fgolh_R1zVU3hh_MubzihK5Vke,,"Khary Randolph, Reggie Butler",
-Deluge of Doom,AU,Common,73,2,0,,,10,10,Water: Opposing engaged Creature loses 25 Courage.,,,Starter,0B6oyUfwoM3u1OXRZY1RvRjI3RlE,1BdWeUmQHNypnGETIS0G7Reu43Zu4vZ0s,,Imaginary Friends Studios,
-Dry Touch,AU,Rare,93,2,5,10,,,,Fire: The opposing engaged Creature loses Water.,,,,1_BtzBlIegocJ1tH0zjO4VL9SqQArQIFb,1z_ecmjxOEZmQfGPTl0VmONcc0ST6Ujiv,,Imaginary Friends Studios,
-Dust Strike,AU,Common,94,2,10,,,5,,Stat Check Speed 60: Deal 5 damage.,,,,1Nglw_reSqyq1oux4exDRxDS99DhpX69-,1xwp91QlEwJ88X-aodyn48kSnFa_kw9-X,,Imaginary Friends Studios,
-Earth Pulse,AU,Common,95,1,0,,,15,,,,,,1Xjy6-Huq9lZCEiKSRIcSGtni-cmiKIvq,1XLpYIfFU7d-y9eiB7T-o158ZaGBePC0a,,Reggie Butler,
-Earthshape,AU,Rare,96,0,0,,,,,Gain Earth,,,,1IgTiH2Nlz61t8AOala9J7p21yJ06KhLX,1io-JUd7d9rJJr3bPDtfnzjMdnNcA7gHU,,"Reggie Butler, Andrew Bradshaw",
-Eidolon Advance,AU,Common,97,1,5,,,,5,Deal 5 damage if your engaged Creature has one or more Mugic counters.,,,,1Jp8ELpCrwDb9CttMokgPK1V9yehJemhC,1EJJCuuQcB63AVqWDI2qojcC11xKrJ-gr,,"Keith Conroy, Etienne St.Laurent",
+Lose 60 Courage.",,,Imaginary Friends Studios
+Aerosion,AU,Rare,84,2,5,,5,5,,Air Flip all Battlegear equipped to engaged Creatures face-down.,,,"Andrew Bradshaw, Etienne St.Laurent"
+Airize,AU,Common,85,0,0,,5,,,"If the opposing engaged Creature has Air, damage dealt by Airize is reduced to 0.",,,"Keith Conroy, Reggie Butler"
+Airsault,AU,Common,86,1,0,,15,,,,,,"Andrew Bradshaw, Etienne St.Laurent"
+Atmosfear,AU,Common,87,1,5,,5,,,"If your engaged creature has Invisibility, deal 5 damage.",,,Imaginary Friends Studios
+Before the Storm,AU,Super Rare,88,4,15,,15,,,Air: This counts as your first attack.,,,Imaginary Friends Studios
+Clean Slide,AU,Common,89,0,0,,,5,,"If the opposing engaged Creature has Earth, damage dealt by Clean Slide is reduced to 0.",,,Imaginary Friends Studios
+Combustion Carnage,AU,Rare,90,0,0,0,,,,"Fire: You may sacrifice an unengaged Creature you control. If you do, deal 20 damage.",,,"Andrew Bradshaw, Etienne St.Laurent"
+Consuming Flame,AU,Common,91,1,0,15,,,,,,,Imaginary Friends Studios
+Deadwater Devastation,AU,Super Rare,92,4,15,,,,15,Water: Remove all Mugic counters from a Creature of your choice.,,,"Khary Randolph, Reggie Butler"
+Deluge of Doom,AU,Common,73,2,0,,,10,10,Water: Opposing engaged Creature loses 25 Courage.,,,Imaginary Friends Studios
+Dry Touch,AU,Rare,93,2,5,10,,,,Fire: The opposing engaged Creature loses Water.,,,Imaginary Friends Studios
+Dust Strike,AU,Common,94,2,10,,,5,,Stat Check Speed 60: Deal 5 damage.,,,Imaginary Friends Studios
+Earth Pulse,AU,Common,95,1,0,,,15,,,,,Reggie Butler
+Earthshape,AU,Rare,96,0,0,,,,,Gain Earth,,,"Reggie Butler, Andrew Bradshaw"
+Eidolon Advance,AU,Common,97,1,5,,,,5,Deal 5 damage if your engaged Creature has one or more Mugic counters.,,,"Keith Conroy, Etienne St.Laurent"
 Enlightened Tenacity,AU,Common,43,2,0,,,5,,"Stat Check Courage 30: Deal 5 damage.
 Stat Check Courage 50: Deal 5 damage.
-Stat Check Courage 70: Deal 5 damage.",,,Starter,0B6oyUfwoM3u1QjVYQUNXM2ExRkU,1GIR2sB3T6HA2MP92TPbtthlKDRE8Mkti,,Imaginary Friends Studios,
-Eroding Blast,AU,Rare,98,2,5,,10,,,Air: The opposing engaged Creature loses Earth.,,,,1PJPpOfYAKIqBBme1Q7OJ-atumObn1Sjq,1bV22j55SkzkY0RoMoBDpjQe0T2UnoLrM,,Imaginary Friends Studios,
-Essential Evaporation,AU,Common,99,1,5,,5,,5,,,,,1LdOHasuDJssa9xmfiTFcdl4rnUctLOiW,1-lkk3uYjC8XzMsfdYCuVAxY4MAyTG9k5,,"Adrian Barrios, Reggie Butler",
-Extinguishing Fountain,AU,Rare,100,2,5,,,,10,Water: The opposing engaged Creature loses Fire.,,,,1vBwA6ZoK87iWYAXpanQeiSCIpgz5gfAz,126jE1To9cCpyVDXLGG9SH5W1aFY5NSFR,,Imaginary Friends Studios,
-Fireram,AU,Common,101,3,10,10,,,,Stat Check Power 60: Deal 10 damage.,,,,1B1jxwXLGAw9tFMnlIjbh2Ety9e-3fvkw,19CJBY6zo2FQO3nZlk7jU9lm6zbs1sxEi,,HotShots VFX,
-Flame Breach,AU,Rare,102,0,0,,,,,Gain Fire,,,,1HwrfIRO5Qc9bEHBgRjAl5P231Xplg6Ub,1N-TQgNuMFtUi3tTjV8Ef6NLWDjIODMRM,,"Andrew Bradshaw, Etienne St.Laurent",
-Flame Fright,AU,Rare,103,3,10,15,,,,Engaged Creatures with less than 50 Wisdom or Courage lose a Mugic counter.,,,,149N5iupejeZ_WpH5mVObrLoK_r7xcbDg,1v2AV2C2APJPtPZPq6-FeVAxg0jiaHs-H,1UiPfj8x4j2xDC2kKrpFZfqn8v3--UYHw,Stone Perales,
-Flood Force,AU,Common,104,1,0,,,,15,,,,,1TjBtJHiILrHqEqGUAjpCeh6G7bZqV02G,1e4MrgKyLYBOs-VRNwN3-FMiksdK2d58x,,Imaginary Friends Studios,
-Fluid Flame,AU,Rare,105,0,0,,,,,Gain Water,,,,1byIjcJElRI8l3BNyyVABlNAbiTAA_Hxa,1JpowugFZuFJzN08wK6lyHWITykbYqOcT,,"Keith Conroy, Reggie Butler",
+Stat Check Courage 70: Deal 5 damage.",,,Imaginary Friends Studios
+Eroding Blast,AU,Rare,98,2,5,,10,,,Air: The opposing engaged Creature loses Earth.,,,Imaginary Friends Studios
+Essential Evaporation,AU,Common,99,1,5,,5,,5,,,,"Adrian Barrios, Reggie Butler"
+Extinguishing Fountain,AU,Rare,100,2,5,,,,10,Water: The opposing engaged Creature loses Fire.,,,Imaginary Friends Studios
+Fireram,AU,Common,101,3,10,10,,,,Stat Check Power 60: Deal 10 damage.,,,HotShots VFX
+Flame Breach,AU,Rare,102,0,0,,,,,Gain Fire,,,"Andrew Bradshaw, Etienne St.Laurent"
+Flame Fright,AU,Rare,103,3,10,15,,,,Engaged Creatures with less than 50 Wisdom or Courage lose a Mugic counter.,,,Stone Perales
+Flood Force,AU,Common,104,1,0,,,,15,,,,Imaginary Friends Studios
+Fluid Flame,AU,Rare,105,0,0,,,,,Gain Water,,,"Keith Conroy, Reggie Butler"
 Force Strike,AU,Common,45,2,0,5,,,,"Stat Check Power 30: Deal 5 damage.
 Stat Check Power 50: Deal 5 damage.
-Stat Check Power 70: Deal 5 damage.",,,Starter,0B6oyUfwoM3u1V0dob1BhdHQ1R1k,1A-wLoAmAoJZ_FrsKlcH5Kd25yN2Yb0fD,,Imaginary Friends Studios,
-Gladiator's Fire,AU,Common,106,1,5,5,,,,"If your engaged Creature has Recklessness, deal 5 damage.",,,,12tPstRMnV6LG-1y1FFWO72UqULciHw9Q,1k2lQpgzFVXEEsod3jjhDOJm8KJnKmsW2,,Imaginary Friends Studios,
-Grounding Grapple,AU,Super Rare,107,4,15,,,15,,Earth: Look at the top three cards of your Location Deck and put them back in any order. You may reveal a new active Location.,,,,1GiAhZHrxZkeigdvHnwm5Jnw97Rj0X_vI,1KqfH-IdGiNNgsGCktB2UbRyN-O0q5oRe,,"Emilio Lopez, Keith Conroy",
-Hurlicane,AU,Rare,49,0,0,,10,,,Air: Your engaged Creature loses Air.,,,Starter,0B6oyUfwoM3u1T0JoZDJraEdVTVU,12yEG4Z6IIdawAlHpTzDuslHANRCb2Rua,,Imaginary Friends Studios,
-Incessant Wave,AU,Common,108,2,10,,,,5,Stat Check Courage 60: Deal 5 damage.,,,,1PWKD9vp-4de-LRQiSUlmCk7n80DG6aCQ,1i6IpcOpxsj1s1xySC61fsoGa-x58WU-X,1lAtn0sQIrGZJ3IPEY7glodzqbOXkCaet,"Andrew Bradshaw, Etienne St.Laurent",
-Incinerase,AU,Rare,103,0,0,10,,,,Fire: Your engaged Creature loses Fire.,,,Starter,0B6oyUfwoM3u1Q1hpUVc2WE8tMjA,1Vly4r9k0aDNpqC7k-A5Wq_FqGA7SShmH,,Emilio Lopez,
-Inferno Claws,AU,Common,109,1,5,5,,5,,,,,,188dOZ-pAeBbCRXaNuVfKN9PoloJjm7BC,1FzAfPLNv4-l-OL-hFrahTEaEyQ_cDs89,,"David Rodriguez, Emilio Lopez",
-Liquescent Swirl,AU,Rare,51,0,0,,,,10,Water: Your engaged Creature loses Water.,,,Starter,0B6oyUfwoM3u1aUFCSmdMa2RQZFU,1H4uFTK1gMjorpoPuClOrtqgYKvwvcSJn,,Imaginary Friends Studios,
-Magma Might,AU,Super Rare,110,4,15,15,,,,Fire: Destroy all Battlegear equipped to the opposing engaged Creature.,,,,1nafJcLp1coovq3W-mm4QQrSRde5HA2AT,1Bt1sy0-vV1NnwM206sBpFpRzVNd-rJep,,"Khary Randolph, Etienne St.Laurent",
+Stat Check Power 70: Deal 5 damage.",,,Imaginary Friends Studios
+Gladiator's Fire,AU,Common,106,1,5,5,,,,"If your engaged Creature has Recklessness, deal 5 damage.",,,Imaginary Friends Studios
+Grounding Grapple,AU,Super Rare,107,4,15,,,15,,Earth: Look at the top three cards of your Location Deck and put them back in any order. You may reveal a new active Location.,,,"Emilio Lopez, Keith Conroy"
+Hurlicane,AU,Rare,49,0,0,,10,,,Air: Your engaged Creature loses Air.,,,Imaginary Friends Studios
+Incessant Wave,AU,Common,108,2,10,,,,5,Stat Check Courage 60: Deal 5 damage.,,,"Andrew Bradshaw, Etienne St.Laurent"
+Incinerase,AU,Rare,103,0,0,10,,,,Fire: Your engaged Creature loses Fire.,,,Emilio Lopez
+Inferno Claws,AU,Common,109,1,5,5,,5,,,,,"David Rodriguez, Emilio Lopez"
+Liquescent Swirl,AU,Rare,51,0,0,,,,10,Water: Your engaged Creature loses Water.,,,Imaginary Friends Studios
+Magma Might,AU,Super Rare,110,4,15,15,,,,Fire: Destroy all Battlegear equipped to the opposing engaged Creature.,,,"Khary Randolph, Etienne St.Laurent"
 Meditative Leap,AU,Common,111,1,10,,,,,"Stat Check Wisdom 100: Remove a Mugic counter from a Creature you control. If you do, put a Mugic counter on your engaged Creature.
-Stat Check Speed 100: Draw an Attack Card and discard an Attack Card.",,,,1sqXZSRHG6UXoMEkRVZPx5y9d4nouMpJN,1t6J7cZ8uw84DuA1pFJSYB9Qj2xA7xyeN,1rXLMChLFaw01dIYrquisF0LfYkkSnNtA,"Keith Conroy, Etienne St.Laurent",
+Stat Check Speed 100: Draw an Attack Card and discard an Attack Card.",,,"Keith Conroy, Etienne St.Laurent"
 Mind Mash,AU,Super Rare,112,5,15,,,,,"Challenge Wisdom vs Courage 5: Deal 15 damage.
 Challenge Wisdom vs Power 5: Deal 15 damage.
-Challenge Wisdom vs Speed 5: Deal 15 damage.",,,,1yx8HnRbzCrmg412pBUyAjN1QAbRrgaIs,16gBwSRU_S7412TUVKWeu9rB8tfSgXtgb,,"Reggie Butler, Imaginary Friends Studios",
+Challenge Wisdom vs Speed 5: Deal 15 damage.",,,"Reggie Butler, Imaginary Friends Studios"
 Mindvoid,AU,Common,113,1,10,,,,,"Stat Check Courage 100: Gain 5 Energy.
-Stat Check Wisdom 100: Remove a Mugic counter from a Creature you control. If you do, put a Mugic counter on your engaged Creature.",,,,1UobNnMBYPymlDXojaQl5sh_ExVuP0eo_,1CJAQ8tK662wZVDnAt6C6L236yxk8eqGO,,"Andrew Bradshaw, Reggie Butler",
-Mineral Mayhem,AU,Common,114,1,5,,,5,,"You may choose to have Mineral Mayhem deal no damage. If you do, gain 100 Courage.",,,,1q8gH48S3zhmNw8LxKczBuAy64sAzdx-V,1DCwKLQqM6OZm45vrV1Vyo5FAwFeH2rNO,,"Keith Conroy, Etienne St.Laurent",
-Obscuring Winds,AU,Common,115,1,5,,5,,,"You may choose to have Obscuring Winds deal no damage. If you do, gain 100 Speed.",,,,17HZK1UX8j4BgneRzG_uaAPrgsEmQCrxc,1tQXUkO4k4hmex8_77qX06GJXh1gmx8HY,,Imaginary Friends Studios,
-Outfreeze,AU,Common,116,1,5,,,,5,"You may choose to have Outfreeze deal no damage. If you do, gain 100 Wisdom.",,,,1SBYZUWB_AU2OjvUMP4KtClsqgiT2zBUV,18dIE5o-gMuj9YIJp0VIVVx34foWyJTx1,,HotShots VFX,
-Paraseed,AU,Common,117,1,5,,,5,,Deal 5 damage if Hive is active.,,,,1WL6oLzhtP0l4__DnvJF3TeXWRxRUHM5U,1W1d_obVmFjy5bkSp5H9gIMcZwD-Rx-XC,1boMAnEp6DjNtpDfxE_11AtkDYbly3YN3,"Andrew Bradshaw, Etienne St.Laurent",
-Perplexing Heat,AU,Common,96,2,0,10,,,10,Fire: Opposing engaged Creature loses 25 Wisdom.,,,Starter,0B6oyUfwoM3u1cWE5QncwT2hsUGM,1tdi7QTWWGsFbM3QVcfTe-O6TKiHgexeM,,Imaginary Friends Studios,
-Primordial Rage,AU,Common,118,1,5,5,,,,"You may choose to have Primordial Rage deal no damage. If you do, gain 100 Power.",,,,19Raoszmebh3-Bi0oY_oSKcB4oqfYy_Qe,1n0viOmYHyi5h6ChVDv3urQqEBjqqxbiP,,Imaginary Friends Studios,
+Stat Check Wisdom 100: Remove a Mugic counter from a Creature you control. If you do, put a Mugic counter on your engaged Creature.",,,"Andrew Bradshaw, Reggie Butler"
+Mineral Mayhem,AU,Common,114,1,5,,,5,,"You may choose to have Mineral Mayhem deal no damage. If you do, gain 100 Courage.",,,"Keith Conroy, Etienne St.Laurent"
+Obscuring Winds,AU,Common,115,1,5,,5,,,"You may choose to have Obscuring Winds deal no damage. If you do, gain 100 Speed.",,,Imaginary Friends Studios
+Outfreeze,AU,Common,116,1,5,,,,5,"You may choose to have Outfreeze deal no damage. If you do, gain 100 Wisdom.",,,HotShots VFX
+Paraseed,AU,Common,117,1,5,,,5,,Deal 5 damage if Hive is active.,,,"Andrew Bradshaw, Etienne St.Laurent"
+Perplexing Heat,AU,Common,96,2,0,10,,,10,Fire: Opposing engaged Creature loses 25 Wisdom.,,,Imaginary Friends Studios
+Primordial Rage,AU,Common,118,1,5,5,,,,"You may choose to have Primordial Rage deal no damage. If you do, gain 100 Power.",,,Imaginary Friends Studios
 Progressive Speed,AU,Common,54,2,0,,5,,,"Stat Check Speed 30: Deal 5 damage.
 Stat Check Speed 50: Deal 5 damage.
-Stat Check Speed 70: Deal 5 damage.",,,Starter,0B6oyUfwoM3u1REFhcnE2X0U5MDA,1lCUhLoZKtTcxVdEslDQehkIfjKPo9haa,,Imaginary Friends Studios,
-Rainspears,AU,Common,119,3,10,,,,10,Stat Check Wisdom 60: Deal 10 damage.,,,,11NNCsaY4ObbMaVCtI4zp1zWdE-QAGQHv,1VupaFAqlVputq_0o0gp6_BOWuIw01yxY,,HotShots VFX,
-Retaliatory Strike,AU,Super Rare,120,3,5,,,,,Retaliatory Strike deals additional damage equal to the damage dealt by the last attack played this combat.,,,,1iJEp9djqcgUStzFZKoO0vP2tFDdvRrrk,1Of6ZTOUNoC96DsgvuuaoNN50eD8a3vy-,1PXnaW_kvnL9KU4ctlh856Es7Vq9NIlDD,"Khary Randolph, Etienne St.Laurent",Dagger
-Sleet Slide,AU,Common,121,0,0,,,,5,"If the opposing engaged Creature has Water, damage dealt by Sleet Slide is reduced to 0.",,,,1u4wfpB3WmuWgyV2SNLIyxXgueX69JE4t,110G4dG-CLsL6C0EtS-yHuBJZIetvYYQh,,"Andrew Bradshaw, Etienne St.Laurent",
-Slowsand,AU,Common,112,2,0,,10,10,,Earth: Opposing engaged Creature loses 25 Speed.,,,Starter,0B6oyUfwoM3u1STNxOFBXb01HSkE,1n3FXCVzBPvjiVcLV14IcOCVZ_DNnRuH3,,Imaginary Friends Studios,
-Smokesurge,AU,Common,122,0,0,5,,,,"If the opposing engaged Creature has Fire, damage dealt by Smokesurge is reduced to 0.",,,,1G_1wR_Y48cwta7kWknzTACXe5zydY32U,1TvrNHhxerC2FZPwQxEbabX_pRFmTJ4rP,,Imaginary Friends Studios,
-Sudden Flare,AU,Common,123,2,10,5,,,,Stat Check Wisdom 60: Deal 5 damage.,,,,163tc-mNt0fEqapigBGNSm78V9q95NYoJ,1ZVm-2JhBir-9Ls2EKypfQjt_WZIhdX2m,,Imaginary Friends Studios,
-Sunder Ground,AU,Uncommon,54,0,0,,,10,,Earth: Your engaged Creature loses Earth.,,,Starter,0B6oyUfwoM3u1Mk16VnpZTnhxa0U,1P5APrZz2f_KeHPz2n0ym_zKhZ5OG2qX7,,"Khary Randolph, Etienne St.Laurent, Edwin Nebres",
+Stat Check Speed 70: Deal 5 damage.",,,Imaginary Friends Studios
+Rainspears,AU,Common,119,3,10,,,,10,Stat Check Wisdom 60: Deal 10 damage.,,,HotShots VFX
+Retaliatory Strike,AU,Super Rare,120,3,5,,,,,Retaliatory Strike deals additional damage equal to the damage dealt by the last attack played this combat.,,,"Khary Randolph, Etienne St.Laurent"
+Sleet Slide,AU,Common,121,0,0,,,,5,"If the opposing engaged Creature has Water, damage dealt by Sleet Slide is reduced to 0.",,,"Andrew Bradshaw, Etienne St.Laurent"
+Slowsand,AU,Common,112,2,0,,10,10,,Earth: Opposing engaged Creature loses 25 Speed.,,,Imaginary Friends Studios
+Smokesurge,AU,Common,122,0,0,5,,,,"If the opposing engaged Creature has Fire, damage dealt by Smokesurge is reduced to 0.",,,Imaginary Friends Studios
+Sudden Flare,AU,Common,123,2,10,5,,,,Stat Check Wisdom 60: Deal 5 damage.,,,Imaginary Friends Studios
+Sunder Ground,AU,Uncommon,54,0,0,,,10,,Earth: Your engaged Creature loses Earth.,,,"Khary Randolph, Etienne St.Laurent, Edwin Nebres"
 Synaptic Acceleration,AU,Common,124,1,10,,,,,"Stat Check Power 100: Deal 5 damage.
-Stat Check Speed 100: Draw an Attack Card and discard an Attack Card.",,,,1v1hvinYXxifmhdvasPqs8FIu8iJq87H3,1LIJb5ybHSSJlM3UxGEc5kuya5h8NzFot,,Imaginary Friends Studios,
-Tectostrike,AU,Common,125,3,10,,,10,,Stat Check Courage 60: Deal 10 damage.,,,,1SRTY-AxJx5N2AbXIqOmnXMdnLprlvuPF,12FnDkuKn5LUsZPzd6cM03X7sNxoGkl1g,,HotShots VFX,
-Terrantula Tackle,AU,Rare,126,3,10,,,15,,Destroy all Battlegear equipped to engaged Creatures with less than 50 Power or Speed.,,,,15g9MmenOi316SVhoY-rlFT7B0x2Amq1v,1D7nmXgEQr9NpJ9vMAiKoRlSntvd9Zvdj,,"Khary Randolph, Reggie Butler",
+Stat Check Speed 100: Draw an Attack Card and discard an Attack Card.",,,Imaginary Friends Studios
+Tectostrike,AU,Common,125,3,10,,,10,,Stat Check Courage 60: Deal 10 damage.,,,HotShots VFX
+Terrantula Tackle,AU,Rare,126,3,10,,,15,,Destroy all Battlegear equipped to engaged Creatures with less than 50 Power or Speed.,,,"Khary Randolph, Reggie Butler"
 Traditionalist's Charge,AU,Common,127,1,10,,,,,"Stat Check Power 100: Deal 5 damage.
-Stat Check Courage 100: Gain 5 Energy.",,,,1j-f_DtQZM28VcLG2FulHFtWYUIUsYqt-,1Qd-5mLiMOdRd91b31F1JHKvzMX3Z_duy,1vE6wgrx8rvuNUB0HLwtMq7F9lCfGH-GJ,"Andrew Bradshaw, Reggie Butler",
-Turbulence Funnel,AU,Common,128,3,10,,10,,,Stat Check Speed 60: Deal 10 damage.,,,,1Yg_Zy8lW1I9QUMJcpVJUx-SCkY5HAKNR,1hTK1ga9d6Gz3I7Cc_NfnDirr7AOsXoV-,,HotShots VFX,
-Vacuum Hemisphere,AU,Rare,129,2,5,,,10,,Earth: The opposing engaged Creature loses Air.,,,,1gxGqUd1vi7RKcwlikOi7fETRxOafZ5kN,1HUrOJFxy1ZtHRch4eWBVEfVvMp-4wFc_,1Lw2Pz2fI9yBeIyPiLhG9lV_1_KXyAxgy,"Andrew Bradshaw, Etienne St.Laurent",
-Vapor Wipeout,AU,Rare,130,0,0,,,,,Gain Air,,,,1eSKsG5orH2ZipMtYzanrgK9alefIttcy,19_kFzULplF7qyTngQ3FUwQI4cNJglp2e,,Imaginary Friends Studios,
-Voltorch,AU,Common,131,2,10,,5,,,Stat Check Power 60: Deal 5 damage.,,,,1b9R8TmMeHfXHHFXxMQoGt7LONH2yHfrM,1z79t3lQ8Hk4dlb3VMRhapTRvehVpexsD,,Imaginary Friends Studios,
-Wall of Flame,AU,Rare,132,3,0,5,5,,,Air: Flip one Battlegear face-up and one Battlegear face-down.,,,,1ATVJcx3pd9gPb1yKUA_JcxRZWaLWFR9_,1XNZQuvxOoJp0w6uqTbile1o8VrVquA0Y,,Imaginary Friends Studios,
-Whirlwind Scythes,AU,Common,125,2,0,10,10,,,Air: Opposing engaged Creature loses 25 Power.,,,Starter,0B6oyUfwoM3u1T1ZQS3A2Z1MzNG8,12OTOCB_NgbCaiIqd-czPUWEv3mdfUxw4,,Imaginary Friends Studios,
-Xenocentric Wrath,AU,Rare,133,2,10,,,,,Deal 10 damage if the opposing engaged Creature does not share a Tribe with the Creature playing this attack.,,,,1_aGHzOVrX_fYlfLLqO3RGJBglF52ge9L,1nSfHzHX9Id3lC3JUfLEZr3Z25432EvXu,,Imaginary Friends Studios,Dagger
-Emberwhip,FAS,Common,14,2,5,10,,,,Emberwhip deals an additional 10 damage if the opposing engaged Creature has Water.,,,,1EXzV5vz-tkXfP4-6_xsG2ZY8-lDybyBr,1R9wUUh3UatgXFVqXFi1EyIxOTAjAWz_7,,"Andrew Bradshaw, Bob Rivard",
-Flurry of Fists,LR,Rare,11,2,0,,,,,"Deal 5 damage for each Attack Card in your Attack Discard pile. If you have 7 or more Attack Cards in your Attack Discard pile, deal 0 damage instead.",,,Online,0B6oyUfwoM3u1bFBnSmM5eTc3RHM,1sGWZ_hA7REI5kzPqI6jKa4QleNV2DJGQ,,Imaginary Friends Studios,Dagger
-M.A.C.A. (Melee Artists Collaborative Attack),LR,Uncommon,12,2,0,,,,,Deal 5 damage for each Mipedian you control.,,1,Online,10QrSg5-xXKfADQjZW6bOZuJStjDrEA0x,15xPzIO9xc1VPn2t8xgu4MB3l-p9n56Ao,,Imaginary Friends Studios,Dagger 
-Allmageddon,OP1,Super Rare,11,5,10,10,10,10,10,,,1,,0B6oyUfwoM3u1eVVOaHp1UVZBb0E,1SyZwsHv4SB1djvA6DQi3t5W0JODBGoU-,,Imaginary Friends Studios,
-Catacollision ,OP1,Uncommon,12,3,5,5,5,5,5,,,,,0B6oyUfwoM3u1bHY1eWtwVDNLdm8,1F4te6BVoQc3oMDL5vKjqAkRXonNmlxi3,,"Andrew Bradshaw, Etienne St.Laurent, Edwin Nebres",
-Frightening Muck ,OP1,Common,13,2,5,,,5,5,Challenge Courage 15: Deal 10 damage.,,,,0B6oyUfwoM3u1RTcxZmd0bGxpYTA,1EqLAM737kqctdXdCEa98lEEcQs6DjRIZ,,"Patrick Boutin Gagne, Etienne St.Laurent, Edwin Nebres",
+Stat Check Courage 100: Gain 5 Energy.",,,"Andrew Bradshaw, Reggie Butler"
+Turbulence Funnel,AU,Common,128,3,10,,10,,,Stat Check Speed 60: Deal 10 damage.,,,HotShots VFX
+Vacuum Hemisphere,AU,Rare,129,2,5,,,10,,Earth: The opposing engaged Creature loses Air.,,,"Andrew Bradshaw, Etienne St.Laurent"
+Vapor Wipeout,AU,Rare,130,0,0,,,,,Gain Air,,,Imaginary Friends Studios
+Voltorch,AU,Common,131,2,10,,5,,,Stat Check Power 60: Deal 5 damage.,,,Imaginary Friends Studios
+Wall of Flame,AU,Rare,132,3,0,5,5,,,Air: Flip one Battlegear face-up and one Battlegear face-down.,,,Imaginary Friends Studios
+Whirlwind Scythes,AU,Common,125,2,0,10,10,,,Air: Opposing engaged Creature loses 25 Power.,,,Imaginary Friends Studios
+Xenocentric Wrath,AU,Rare,133,2,10,,,,,Deal 10 damage if the opposing engaged Creature does not share a Tribe with the Creature playing this attack.,,,Imaginary Friends Studios
+Emberwhip,FAS,Common,14,2,5,10,,,,Emberwhip deals an additional 10 damage if the opposing engaged Creature has Water.,,,"Andrew Bradshaw, Bob Rivard"
+Flurry of Fists,LR,Rare,11,2,0,,,,,"Deal 5 damage for each Attack Card in your Attack Discard pile. If you have 7 or more Attack Cards in your Attack Discard pile, deal 0 damage instead.",,,Imaginary Friends Studios
+M.A.C.A. (Melee Artists Collaborative Attack),LR,Uncommon,12,2,0,,,,,Deal 5 damage for each Mipedian you control.,,1,Imaginary Friends Studios
+Allmageddon,OP1,Super Rare,11,5,10,10,10,10,10,,,1,Imaginary Friends Studios
+Catacollision ,OP1,Uncommon,12,3,5,5,5,5,5,,,,"Andrew Bradshaw, Etienne St.Laurent, Edwin Nebres"
+Frightening Muck ,OP1,Common,13,2,5,,,5,5,Challenge Courage 15: Deal 10 damage.,,,"Patrick Boutin Gagne, Etienne St.Laurent, Edwin Nebres"
 Carniwin,MI,Promo,9,1,10,,,,,"If there are an odd number of Creatures in play, deal 10 damage.
-If there are an even number of Creatures in play, deal 10 damage to your engaged Creature.",,,,12jcuqUDkNDEzrRuBxXNf4Xt-RxP6MK6f,1mJPvGEcv0msa3fA13t4mIqy8w9slgZ70,,HotShots VFX,Dagger
-Flurry of Fists,TOTT,Promo,83b,2,,,,,,"Deal 5 damage for each Attack Card in your Attack Discard pile. If you have 7 or more Attack Cards in your Attack Discard pile, deal 0 damage instead.",,,,0B6oyUfwoM3u1bFBnSmM5eTc3RHM,1sGWZ_hA7REI5kzPqI6jKa4QleNV2DJGQ,,Imaginary Friends Studios,Dagger
-Nexdoors,BR,Rare,,0,0,,0,,,Air: Look at the top two cards of your Attack Deck. Put one of them on the top of that deck and the other on the bottom.,,,Online,0B6oyUfwoM3u1WnBMR3U5R2tYbnM,1olBy2B55O19D941Ejdg7uveQd0Ea-zTs,,"Etienne St.Laurent, Aris Iliopoulos",Unused
+If there are an even number of Creatures in play, deal 10 damage to your engaged Creature.",,,HotShots VFX
+Flurry of Fists,TOTT,Promo,83b,2,,,,,,"Deal 5 damage for each Attack Card in your Attack Discard pile. If you have 7 or more Attack Cards in your Attack Discard pile, deal 0 damage instead.",,,Imaginary Friends Studios
+Nexdoors,BR,Rare,,0,0,,0,,,Air: Look at the top two cards of your Attack Deck. Put one of them on the top of that deck and the other on the bottom.,,,"Etienne St.Laurent, Aris Iliopoulos"

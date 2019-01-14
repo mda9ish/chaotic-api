@@ -22,7 +22,7 @@ const favicon = require('serve-favicon')
 app.use(favicon(path.join(__dirname, 'chaotic-game/dist/chaotic-game', 'favicon.ico')))
 
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://henry:henry5398@ds263493.mlab.com:63493/heroku_8p4bgrc8', {useNewUrlParser: true});
+mongoose.connect('mongodb://chaotic:majortom1@ds255794.mlab.com:55794/heroku_bk7ctjjr', {useNewUrlParser: true});
 
 const db = mongoose.connection;
 

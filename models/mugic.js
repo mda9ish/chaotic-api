@@ -20,13 +20,7 @@ const MugicSchema = mongoose.Schema({
   flavor: String,
   unique: String,
   past: String,
-  exclusive: String,
-  image: String,
-  thumb: String,
-  splash: String,
   artist: String,
-  tags: String,
-  notes: String
 });
 
 //Mugic Model

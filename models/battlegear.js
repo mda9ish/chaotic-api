@@ -21,12 +21,7 @@ const BattlegearSchema= mongoose.Schema({
   legendary: String,
   past: String,
   shard: String,
-  exclusive: String,
-  image: String,
-  thumb: String,
-  splash: String,
-  artist: String,
-  tag: String
+  artist: String
 });
 
 //Battlegear Model

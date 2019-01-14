@@ -32,13 +32,7 @@ const CreatureSchema = new mongoose.Schema({
   unique: String,
   loyal: String,
   legendary: String,
-  image: String,
-  thumb: String,
-  splash: String,
-  artist: String,
-  tages: String,
-  gender: String,
-  exclusive: String
+  gender: String
 });
 
 //Creature Model
