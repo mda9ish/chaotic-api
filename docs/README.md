@@ -38,7 +38,7 @@ $ curl http://chaoticga.me/creatures/DOP/15
 
 ```http://chaoticga.me/DOP/15```
 
-![maxxor card](./assets/DOP/15.png "maxxor card")
+![maxxor card](../assets/DOP/15.png "maxxor card")
 
 ## Chaotic Cards
 
