@@ -38,7 +38,7 @@ $ curl http://chaoticga.me/creatures/DOP/15
 
 ```http://chaoticga.me/DOP/15```
 
-![maxxor card](./assets/DOP/15.png"maxxor card")
+![maxxor card](./assets/DOP/15.png "maxxor card")
 
 ## Chaotic Cards
 
@@ -64,12 +64,25 @@ $ curl http://chaoticga.me/creatures/DOP/15
 
 ```/creatures/DOP/15```
 
-## Card Types
+## Valid Parameters
 
-|Card Type|
+|Card Types|
 |:-:|
-|**Creatures**|
-|**Battlegear**|
-|**Locations**|
-|**Mugic**|
-|**Attacks**|
+|```/creatures```|
+|```/battlegear```|
+|```/locations```|
+|```/mugic```|
+|```/attacks```|
+
+|Set Names|Sets|
+|:-:|:-:|
+|Alliances Unraveled|```/AU```|
+|Dawn of Perim|```/DOP```|
+|Forged Unity|```/FUN```|
+|Marillian Invasion|```/MI```|
+|Organized Play|```/OP1```|
+|Rise of the Oligarch|```/ROTO```|
+|Silent Sands|```/SS```|
+|Turn of the Tide|```/TOTT```|
+|Zenith of the Hive|```/ZOTH```|
+
