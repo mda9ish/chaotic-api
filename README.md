@@ -66,7 +66,7 @@ $ curl http://chaoticga.me/creatures/DOP/15
 
 ## Valid Parameters
 
-|Card Types|
+|Card Type|
 |:-:|
 |```/creatures```|
 |```/battlegear```|
@@ -74,7 +74,7 @@ $ curl http://chaoticga.me/creatures/DOP/15
 |```/mugic```|
 |```/attacks```|
 
-|Set Names|Sets|
+|Set Name|Set|
 |:-:|:-:|
 |Alliances Unraveled|```/AU```|
 |Dawn of Perim|```/DOP```|
@@ -86,3 +86,6 @@ $ curl http://chaoticga.me/creatures/DOP/15
 |Turn of the Tide|```/TOTT```|
 |Zenith of the Hive|```/ZOTH```|
 
+## API Limits
+
+**The API limits all calls from original source to 100 calls every 15 minutes**
