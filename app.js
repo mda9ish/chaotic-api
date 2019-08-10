@@ -37,6 +37,8 @@ db.on('error', console.error.bind(console, 'connection error:'));
 // Database establishes connection
 db.once('open', () => {
   
+  console.log('Database connection established.')
+
   // Returns battlegear by set or id
   const battlegear = require('./routes/battlegear');
   app.use('/battlegear', battlegear)
