@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 import { ChaoticApiService } from './chaotic-api.service';
 
-const server = "http://chaoticga.me/";
+const server = "http://www.chaoticga.me/";
 
 @Component({
   selector: 'app-root',

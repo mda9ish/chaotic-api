@@ -21,8 +21,12 @@ const apiLimiter = rateLimit({
 app.use(apiLimiter)
 
 // Serve static assets
+const favicon = require('serve-favicon');
 const path = require('path');
+
 app.use(express.static(__dirname));
+app.use('/', express.static(path.join(__dirname, 'docs/dist/docs')));
+app.use(favicon(path.join(__dirname, 'docs/dist/docs', 'favicon.ico')));
 
 // Connect to MongoDB (read only)
 const mongoose = require('mongoose');
@@ -36,7 +40,7 @@ db.on('error', console.error.bind(console, 'connection error:'));
 
 // Database establishes connection
 db.once('open', () => {
-  
+
   console.log('Database connection established.')
 
   // Returns battlegear by set or id
