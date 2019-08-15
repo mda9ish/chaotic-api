@@ -26,7 +26,7 @@ app.use(express.static(__dirname));
 
 // Connect to MongoDB (read only)
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://chaotic:majortom1@ds255794.mlab.com:55794/heroku_bk7ctjjr', {useNewUrlParser: true});
+mongoose.connect('mongodb://chaotic:majortom1@ds163517.mlab.com:63517/heroku_4tp2j758', {useNewUrlParser: true});
 
 // Establish connection to database
 const db = mongoose.connection;
