@@ -10,17 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/unitehenry/chaotic-api.git"
   },
-  "dependencies": {
-    "serve-favicon": "^2.5.0",
-    "webpack-dev-server": "^3.1.14"
-  },
   "author": "Henry Unite",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/unitehenry/chaotic-api/issues"
   },
   "homepage": "https://github.com/unitehenry/chaotic-api#readme",
-  "devDependencies": {
+  "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
