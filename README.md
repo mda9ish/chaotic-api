@@ -1,5 +1,11 @@
 # Chaotic TCG REST API
 
+[Documentation](http://chaoticga.me/)
+|
+[Discord](https://discord.gg/Q4dTBaw)
+|
+[Chaotic Backup](http://chaoticbackup.forumotion.com/)
+
 ## Getting Started
 
 ### Making an API Call
