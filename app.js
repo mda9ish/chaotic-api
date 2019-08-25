@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 8080;
 
 // Cross-origin support
 const cors = require('cors');
-app.use(cors())
+app.use(cors());
 
 // Enable proxy connection
 const rateLimit = require('express-rate-limit');
@@ -45,7 +45,7 @@ db.once('open', () => {
 
   // Returns battlegear by set or id
   const battlegear = require('./routes/battlegear');
-  app.use('/battlegear', battlegear)
+  app.use('/battlegear', battlegear);
 
   // Returns creatures by set or id
   const creatures = require('./routes/creatures');
@@ -53,7 +53,7 @@ db.once('open', () => {
 
   // Returns attacks by set or id
   const attacks = require('./routes/attacks');
-  app.use('/attacks', attacks)
+  app.use('/attacks', attacks);
 
   // Reuturns mugic by set or id
   const mugic = require('./routes/mugic');
@@ -65,7 +65,7 @@ db.once('open', () => {
 
   // Returns all cards or cards by set
   const cards = require('./routes/cards')
-  app.use('/cards', cards)
+  app.use('/cards', cards);
 
   // Return Card Image
   app.get('/:set/:id', (req, res) => {
@@ -79,6 +79,6 @@ db.once('open', () => {
 
 
   // Open server
-  app.listen(PORT, () => { console.log(`Server listening on port ${PORT}`) })
+  app.listen(PORT, () => { console.log(`Server listening on port ${PORT}`) });
 
 })

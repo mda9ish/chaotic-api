@@ -9,7 +9,7 @@ Documentation for the Chaotic Trading Card Game API.
 
 ## Getting Started
 
-To begin with this API, let's start bt making our first API call to the server.
+To begin with this API, let's start by making our first API call to the server.
 
 ### Making an API Call
 
