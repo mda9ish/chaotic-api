@@ -30,7 +30,7 @@ app.use(favicon(path.join(__dirname, 'docs/dist/docs', 'favicon.ico')));
 
 // Connect to MongoDB (read only)
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://chaotic:majortom1@ds163517.mlab.com:63517/heroku_4tp2j758', {useNewUrlParser: true});
+mongoose.connect('mongodb://chaotic:majortom1@ds163517.mlab.com:63517/heroku_4tp2j758', { useNewUrlParser: true });
 
 // Establish connection to database
 const db = mongoose.connection;
@@ -41,7 +41,7 @@ db.on('error', console.error.bind(console, 'connection error:'));
 // Database establishes connection
 db.once('open', () => {
 
-  console.log('Database connection established.')
+  console.log('Database connection established.');
 
   // Returns battlegear by set or id
   const battlegear = require('./routes/battlegear');
@@ -69,10 +69,16 @@ db.once('open', () => {
 
   // Return Card Image
   app.get('/:set/:id', (req, res) => {
-    res.sendFile(path.join(__dirname + `/assets/${req.params.set}/${req.params.id}.png`));
+    res.sendFile(path.join(__dirname, `/assets/${req.params.set}/${req.params.id}.png`));
   })
 
+  // Documentation Website
+  app.get('/', (req, res) => {
+    res.sendFile(path.join(__direname, ))
+  })
+
+
   // Open server
-  app.listen(PORT, () => {console.log(`Server listening on port ${PORT}`)})
+  app.listen(PORT, () => { console.log(`Server listening on port ${PORT}`) })
 
 })
