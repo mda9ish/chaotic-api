@@ -25,8 +25,8 @@ const favicon = require('serve-favicon');
 const path = require('path');
 
 app.use(express.static(__dirname));
-app.use('/', express.static(path.join(__dirname, 'docs/dist/docs')));
-app.use(favicon(path.join(__dirname, 'docs/dist/docs', 'favicon.ico')));
+app.use('/', express.static(path.join(__dirname, 'docs/website/build/chaotic-api')));
+app.use(favicon(path.join(__dirname, 'docs/website/static/img', 'favicon.ico')));
 
 // Connect to MongoDB (read only)
 const mongoose = require('mongoose');
@@ -74,7 +74,7 @@ db.once('open', () => {
 
   // Documentation Website
   app.get('/', (req, res) => {
-    res.sendFile(path.join(__direname, ))
+    res.sendFile(path.join(__dirname, 'docs/website/build/chaotic-api/index.html'));
   })
 
 

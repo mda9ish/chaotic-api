@@ -2,7 +2,7 @@
 id: documentation
 title: Documentation
 sidebar_label: Documentation
-custom_edit_url: https://github.com/unitehenry/chaotic-api/blob/master/docs/docs/docs.md
+custom_edit_url: https://github.com/unitehenry/chaotic-api/blob/master/docs/docs/documentation.md
 ---
 
 Documentation for the Chaotic Trading Card Game API.
