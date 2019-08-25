@@ -11,7 +11,7 @@
 ### Making an API Call
 
 ```sh
-$ curl http://chaoticga.me/creatures/DOP/15
+$ curl http://www.chaoticga.me/creatures/DOP/15
 ```
 
 ```json
@@ -42,7 +42,7 @@ $ curl http://chaoticga.me/creatures/DOP/15
 
 ### Getting card images
 
-```http://chaoticga.me/DOP/15```
+```http://www.chaoticga.me/DOP/15```
 
 ![maxxor card](./assets/DOP/15.png "maxxor card")
 
