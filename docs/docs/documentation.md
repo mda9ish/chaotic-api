@@ -1,7 +1,8 @@
 ---
-id: docs
+id: documentation
 title: Documentation
 sidebar_label: Documentation
+custom_edit_url: https://github.com/unitehenry/chaotic-api/blob/master/docs/docs/docs.md
 ---
 
 Documentation for the Chaotic Trading Card Game API.
@@ -191,7 +192,7 @@ These are valid schemas for what you can expect to be returned for a given card'
 ### Mugic
 
 |Property|Type|Details|
-|:-:|:-:|:-:|
+|:-:|:-:|:-:|`
 |_id|String|Unique database id|
 |Name|String|Name of the card|
 |Set|String|The set id of the card|
