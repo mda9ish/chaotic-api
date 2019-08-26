@@ -1,7 +1,7 @@
 // Express Dependency
 const express = require('express');
 const app = express();
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 3000;
 
 // Cross-origin support
 const cors = require('cors');
@@ -73,10 +73,9 @@ db.once('open', () => {
   })
 
   // Documentation Website
-  app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, 'docs/website/build/chaotic-api/index.html'));
-  })
-
+  // app.get('/', (req, res) => {
+  //   res.sendFile(express.static(path.join(__dirname, 'docs/website/build/chaotic-api', 'index.html')));
+  // })
 
   // Open server
   app.listen(PORT, () => { console.log(`Server listening on port ${PORT}`) });

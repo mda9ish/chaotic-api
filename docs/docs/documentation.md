@@ -192,13 +192,19 @@ These are valid schemas for what you can expect to be returned for a given card'
 ### Mugic
 
 |Property|Type|Details|
-|:-:|:-:|:-:|`
+|:-:|:-:|:-:|
 |_id|String|Unique database id|
 |Name|String|Name of the card|
 |Set|String|The set id of the card|
 |Rarity|String|The cards rarity in the game|
 |Id|Number|The card's id number in its respective set|
 |Tribe|String|The card's tribe in the game|
+|Cost|Number|The cards mugic cost|
+|Ability|String|Card's printed mechanical game text|
+|Flavor|String|The card's printed flavor text|
+|Unique|String||
+|Past|String||
+|Artist|String|The card art illustrator|
 
 
 ### Battlegear
@@ -210,6 +216,14 @@ These are valid schemas for what you can expect to be returned for a given card'
 |Set|String|The set id of the card|
 |Rarity|String|The cards rarity in the game|
 |Id|Number|The card's id number in its respective set|
+|Ability|String|Card's printed mechanical game text|
+|Flavor Text|String|The card's printed flavor text|
+|Unique|String||
+|Loyal|String||
+|Legendary|String||
+|Past|String||
+|Shard|String||
+|Artist|String|The card art illustrator|
 
 ## API Limits
 
