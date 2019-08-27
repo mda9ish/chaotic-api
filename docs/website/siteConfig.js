@@ -23,8 +23,8 @@ const users = [
 const siteConfig = {
   title: 'Chaotic TCG API', // Title for your website.
   tagline: 'Documentation',
-  url: 'https://unitehenry.github.io/', // Your website URL
-  baseUrl: '/chaotic-game/', // Base URL for your project */
+  url: 'https://unitehenry.github.io', // Your website URL
+  baseUrl: '/chaotic-api/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
